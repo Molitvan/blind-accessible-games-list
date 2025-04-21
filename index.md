@@ -33,6 +33,7 @@ For some games there is not enough information so feel free to leave your experi
 - Pokémon Reborn (PC) - mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
 - Assassin's Creed Shadows (all platforms) - not enough information
 - Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
+- All GBC and GBA Pokemon games (emulated on PC, with a mod) - fully accessible
 
 ## Mods and other mentioned resources
 - [Minecraft Access](https://github.com/minecraft-access/minecraft-access/)
@@ -50,6 +51,7 @@ For some games there is not enough information so feel free to leave your experi
 - [FA11y (Fortnite)](https://github.com/GreenBeanGravy/FA11y/)
     - Note: The Fortnite aim assist mod (Spectre) is separate from the main FA11y mod. Spectre is available on the [A11y Vault Discord server](https://discord.com/invite/bZa35NZy8Y)
 - [Master Duels Blind Mode](https://github.com/radsi/Master-Duels-BlindMode)
+- [Pokemon Access](https://github.com/nuive/pokemon-access)
 - [God of War Ragnarok guide](https://reviews.sightlesskombat.com/RG.shtml)
 
 ## Accidentally accessible games
