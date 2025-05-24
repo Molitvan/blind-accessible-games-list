@@ -8,15 +8,15 @@ For some games there is not enough information so feel free to leave your experi
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PS4/PS5) - fully accessible, but the PS5 version has more features like audio description
 - God of War Ragnarök (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
-- Spiderman 2 (PC/PS5) - there are some accessibility issues, but it's playable. There are also guides for blind players, but only for certain missions. Includes audio description. Note for PC: the recently released PC port is known to have some accessibility related bugs
+- Spiderman 2 (PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game)
 - Minecraft: Java Edition (PC, with a mod) - mostly accessible, requires decent spatial awareness
-- Factorio (PC, with a mod) - mostly accessible and the developers are constantly updating the mod with new features
+- Factorio (PC, with a mod) - mostly accessible, currently stuck on an older game version with support for the newest version being worked on and expected probably in a few months. That older version (1.1) still has planty of content and new players won't notice any significant changes when upgrading to 2.0.
 - Lethal Company (PC, with a mod) - mostly accessible
 - Forza Motorsport (PC/Xbox) - fully accessible, high learning curve, includes audio description
 - As Dusk Falls (all platforms) - fully accessible w/audio description
-- Hades (PC, with a mod) - playable, but a bit tricky at times
+- Hades (PC, with a mod) - playable, but a bit tricky at times, uses OCR
 - Hades II. (PC, with a mod) - no information
-- Stardew Valley (PC, with a mod) - mostly accessible, with most downsides being related to combat
+- Stardew Valley (PC, with a mod) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
 - Plants vs Zombies (PC, with a mod) - no information
 - Diablo IV (all platforms) - mostly accessible, requires mental mapping in dungeons, nav assist only in overworld for now
 - Brock the Investigator (all platforms) - fully accessible w/audio description
@@ -31,7 +31,7 @@ For some games there is not enough information so feel free to leave your experi
 - Fortnite (PC, with a mod) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
 - Yu-Gi-Oh: Master Duels (PC, with a mod) - work in progress, looking very promising
 - Pokémon Reborn (PC) - mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
-- Assassin's Creed Shadows (all platforms) - not enough information
+- Assassin's Creed Shadows (all platforms) - limited information, the game looks to be playable, but very frustrating. It may get removed from this list in the future.
 - Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
 - All GBC and GBA Pokemon games (emulated on PC, with a mod) - fully accessible
 
