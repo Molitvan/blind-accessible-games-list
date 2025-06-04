@@ -34,6 +34,7 @@ For some games there is not enough information so feel free to leave your experi
 - Assassin's Creed Shadows (all platforms) - limited information, the game looks to be playable, but very frustrating. It may get removed from this list in the future.
 - Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
 - All GBC and GBA Pokemon games (emulated on PC, with a mod) - fully accessible
+- F1 25 (all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 
 ## Mods and other mentioned resources
 - [Minecraft Access](https://github.com/minecraft-access/minecraft-access/)
