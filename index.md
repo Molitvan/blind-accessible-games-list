@@ -35,6 +35,7 @@ For some games there is not enough information so feel free to leave your experi
 - Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
 - All GBC and GBA Pokemon games (emulated on PC, with a mod) - fully accessible
 - F1 25 (all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
+- Blackbox (iOS) - fully accessible
 
 ## Mods and other mentioned resources
 - [Minecraft Access](https://github.com/minecraft-access/minecraft-access/)
