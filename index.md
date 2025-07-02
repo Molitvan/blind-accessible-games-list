@@ -9,55 +9,37 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
-- God of War Ragnarök (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
+- God of War Ragnarök (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
 - Spiderman 2 (PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game, but otherwise fully accessible)
-- Minecraft: Java Edition (PC, with a mod) - mostly accessible, requires decent spatial awareness
-- Factorio (PC, with a mod) - mostly accessible, currently stuck on an older game version with support for the newest version being worked on and expected probably in a few months. That older version (1.1) still has planty of content and new players won't notice any significant changes when upgrading to 2.0.
-- Lethal Company (PC, with a mod) - mostly accessible
+- Minecraft: Java Edition (PC, with [the Minecraft Access mod](https://mcaccess.org)) - mostly accessible, requires decent spatial awareness
+- Factorio (PC, with [the Factorio Access mod](https://github.com/factorio-access/factorio-access)) - mostly accessible, currently stuck on an older game version with support for the newest version being worked on and expected probably in a few months. That older version (1.1) still has planty of content and new players won't notice any significant changes when upgrading to 2.0.
+- Lethal Company (PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - mostly accessible
 - Forza Motorsport (PC/Xbox) - fully accessible, high learning curve, includes audio description
 - As Dusk Falls (PC/PS5/Xbox) - fully accessible w/audio description (the game is also available for PS4, but that version is not accessible)
-- Hades (PC, with a mod) - playable, but a bit tricky at times, uses OCR
-- Hades II. (PC, with a mod) - no information
-- Stardew Valley (PC, with a mod) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
-- Plants vs Zombies (PC, with a mod) - no information
+- Hades (PC, with [the Erumi's Blind Accessibility Options modpack](https://hllf.net/hades)) - playable, but a bit tricky at times, uses OCR
+- Hades II. (PC, with [the Blind Accessibility  modpack](https://thunderstore.io/c/hades-ii/p/erumi321/Blind\_Accessibility)) - no information other than that the development seems to be slow, possibly abandoned at the moment and as a result the modpack doesn't support the latest Hades II version
+- Stardew Valley (PC, with [the Stardew Access mod](https://github.com/stardew-access/stardew-access)) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
+- Plants vs Zombies (PC, with [the pvz-a11y mod](https://github.com/CG8516/PvZA11y)) - fully accessible
 - Diablo IV (all platforms) - mostly accessible, requires mental mapping in dungeons, nav assist only in overworld for now
 - Brock the Investigator (all platforms) - fully accessible w/audio description
 - Mortal Kombat 1 (all platforms) - fully accessible w/audio description
-- Slay the Spire (PC, with a mod) - fully accessible
-- Hearthstone (PC, with a mod) - fully accessible
-- World of Warcraft (PC, with a mod) - mostly accessible, sighted assistance required in dungeons and end-game content
-- Crusader Kings III (PC, with a mod) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputing text to a tts.
+- Slay the Spire (PC, with [the Say the Spire mod](https://github.com/bradjrenshaw/say-the-spire)) - fully accessible
+- Hearthstone (PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
+- World of Warcraft (PC, with [the Blind Slash mod](https://www.curseforge.com/wow/addons/blindslash)) - mostly accessible, sighted assistance required in dungeons and end-game content
+- World of Warcraft Classic (PC, with [the SKU mod](https://www.curseforge.com/wow/addons/sku)) - not in active development as seen by the notice in the description. As such, I don't recommend it to new players, but I'm putting it here just to make it clear it exists for now.
+- Crusader Kings III (PC, [with a mod](https://forum.paradoxplaza.com/forum/threads/mod-ocr-support-a-mod-for-blind-and-visually-impaired-players.1619475/)) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputing text to a tts.
 - Skull Girls (PC) - fully accessible
-- Balatro (PC, with a mod) - fully accessible
+- Balatro (PC, with [the Black Hole mod](https://github.com/Aurelius7309/BlackHole)) - fully accessible
 - Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
-- Fortnite (PC, with a mod) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
-- Yu-Gi-Oh: Master Duels (PC, with a mod) - work in progress, looking very promising
+- Fortnite (PC, with [the FA11y mod](https://github.com/GreenBeanGravy/FA11y), aim assist available separately [here](https://discord.com/invite/bZa35NZy8Y)) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
+- Yu-Gi-Oh: Master Duels (PC, with [the Master Duels Blind Mode mod](https://github.com/radsi/Master-Duels-BlindMode)) - work in progress, looking very promising
 - Pokémon Reborn (PC) - mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
 - Assassin's Creed Shadows (all platforms) - limited information, the game looks to be playable, but very frustrating. It may get removed from this list in the future.
 - Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
-- All GBC and GBA Pokemon games (emulated on PC, with a mod) - fully accessible
+- All GBC and GBA Pokemon games including some ROM hacks (emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - fully accessible
 - F1 25 (all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 - Blackbox (iOS) - fully accessible
 - Soulblaze (PC) - fully accessible
-
-## Mods and other mentioned resources
-- [Minecraft Access](https://github.com/minecraft-access/minecraft-access/)
-- [Factorio Access](https://github.com/Factorio-Access/FactorioAccess/)
-- [Stardew Access](https://github.com/khanshoaib3/stardew-access)
-- [Lethal Access](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess/)
-- [pvz-a11y (Plants vs Zombies)](https://github.com/CG8516/PvZA11y)
-- [Erumi's Blind Accessibility Options (Hades)](https://hllf.net/hades/)
-- [Blind Accessibility (Hades II)](https://thunderstore.io/c/hades-ii/p/erumi321/Blind\_Accessibility/)
-- [Hearthstone Access](https://hearthstoneaccess.com/)
-- [Say the Spire](https://github.com/bradjrenshaw/say-the-spire)
-- [SKU (World of Warcraft)](https://github.com/Duugu/Sku)
-- [Crusader Kings III](https://forum.paradoxplaza.com/forum/threads/mod-ocr-support-a-mod-for-blind-and-visually-impaired-players.1619475/)
-- [Black Hole (Balatro)](https://github.com/Aurelius7309/BlackHole)
-- [FA11y (Fortnite)](https://github.com/GreenBeanGravy/FA11y/)
-    - Note: The Fortnite aim assist mod (Spectre) is separate from the main FA11y mod. Spectre is available on the [A11y Vault Discord server](https://discord.com/invite/bZa35NZy8Y)
-- [Master Duels Blind Mode](https://github.com/radsi/Master-Duels-BlindMode)
-- [Pokemon Access](https://github.com/nuive/pokemon-access)
-- [God of War Ragnarok guide](https://reviews.sightlesskombat.com/RG.shtml)
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
