@@ -40,6 +40,8 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - F1 25 (all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 - Blackbox (iOS) - fully accessible
 - Soulblaze (PC) - fully accessible
+- Sequence Storm (PC) - fully accessible
+- Red and Black (PC) - fully accessible
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
