@@ -17,7 +17,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Forza Motorsport (PC/Xbox) - fully accessible, high learning curve, includes audio description
 - As Dusk Falls (PC/PS5/Xbox) - fully accessible w/audio description (the game is also available for PS4, but that version is not accessible)
 - Hades (PC, with [the Erumi's Blind Accessibility Options modpack](https://hllf.net/hades)) - playable, but a bit tricky at times, uses OCR
-- Hades II. (PC, with [the Blind Accessibility  modpack](https://thunderstore.io/c/hades-ii/p/erumi321/Blind\_Accessibility)) - no information other than that the development seems to be slow, possibly abandoned at the moment and as a result the modpack doesn't support the latest Hades II version
+- Hades II. (PC, with [the Blind Accessibility](https://thunderstore.io/c/hades-ii/p/Lirin/Blind_Accessibility/) and [the Tolk Compatibility](https://thunderstore.io/c/hades-ii/p/Lirin/Hades_2_TOLk_Compatibility/) mods) - limited information, also there isn't any useful information in the mod's readme, but a post by the developer with more info can be found [here](https://forum.audiogames.net/topic/53522/)
 - Stardew Valley (PC, with [the Stardew Access mod](https://github.com/stardew-access/stardew-access)) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
 - Plants vs Zombies (PC, with [the pvz-a11y mod](https://github.com/CG8516/PvZA11y)) - fully accessible
 - Diablo IV (all platforms) - mostly accessible, requires mental mapping in dungeons, nav assist only in overworld for now
