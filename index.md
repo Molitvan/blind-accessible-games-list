@@ -33,7 +33,9 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
 - Fortnite (PC, with [the FA11y mod](https://github.com/GreenBeanGravy/FA11y), aim assist available separately [here](https://discord.com/invite/bZa35NZy8Y)) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
 - Yu-Gi-Oh: Master Duels (PC, with [the Master Duels Blind Mode mod](https://github.com/radsi/Master-Duels-BlindMode)) - work in progress, looking very promising
-- Pokémon Reborn (PC) - mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
+- Pokémon Reborn (PC)
+  - Without mods: mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
+  - with [the PK Reborn Access mod](https://github.com/fclorenzo/pkreborn-access) - improves the experience with a lot of features including proper nav assist and improving menu narration in some screens
 - Assassin's Creed Shadows (all platforms) - limited information, the game looks to be playable, but very frustrating. It may get removed from this list in the future.
 - Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
 - All GBC and GBA Pokemon games including some ROM hacks (emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - fully accessible
@@ -48,10 +50,17 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Disco Elysium (PC, with [the Disco Accessibility mod](https://github.com/BlindGuyNW/disco-accessibility), download separately available [here](https://www.dropbox.com/scl/fo/5tpn0fdadkgb76ujprr8k/AItJ_UbPp2cMR3ctbJ2jAvE?rlkey=ma5zvumvumwhytbsr424eo5un&dl=1)) - fully accessible, requires both controller and keyboard, navigation needs some getting used to
 - Rimworld (PC, with [the Rimworld Access mod](https://www.dropbox.com/scl/fo/dy0cnxq5uy228f4quosjm/ADw6pSLSBSm5ZweePrir3A8?rlkey=rkmdvx1x3wud6zkln02kroi6v&dl=1)) - mostly accessible, limited information on what specifically isn't accessible, more info available [here](https://forum.audiogames.net/topic/58003/rimworld-access-public-release/)
 - 1428: Shadows Over Silesia (PC) - fully accessible w/audio description
-- Rhythm Doctor (PC) - fully accessible with audio description with the exception of the custom level editor. To get the accessibility as of writing you have to switch to the public beta branch, but I'm reading the game will be exiting early access and releasing officially on December 6th so It's very likely this won't be necessary then as the official release announcement specifically calls out adding audio description to remaining levels. Narration can be turned on by pressing F8.
-- Bits and Bops (PC) - fully accessible with audio description. This is another game which currently has a demo out but the full version is coming out later this month
+- Rhythm Doctor (PC) - fully accessible w/audio description, except the custom level editor
+- Bits and Bops (PC) - fully accessible w/audio description
 - Slots and Daggers (PC, with [this mod](https://forum.audiogames.net/topic/57985)) - fully accessible
 - DawnCaster (Android/iOS, PC coming soon) - fully accessible w/audio description
+- Pokemon Rejuvenation (PC, with [the Crawli Support Pack modpack](https://github.com/yrsegal/crawli-support-pack)) - playable, but very early
+- Pokemon Showdown (PC) - fully accessible
+- Microsoft Flight Simulator 2020 (PC) - more info available [here](https://bvipilots.net/)
+- Escape from Norwood (PC/Android/iOS) - fully accessible
+- Kilta (PC) - fully accessible
+- Firebird (PC) - fully accessible
+- Luck be a Landlord (PC) - fully accessible
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
@@ -61,3 +70,4 @@ These are games that are playable, but without the developers or modders specifi
 - Ninja Gaiden 3: OCR required, has navigation assist which makes it playable
 - Resident Evil 6: OCR required, has navigation assist which makes it playable.
 - The Jackbox party pack series, from volume 7 upwards including the starter pack. These are social games that work by having one player run the game and show it to others, either IRL on a tv or through a stream on a platform like Discord. The game menus are not narrated, but each minigame has unique music in the selection menu, and once a game is selected you can press up arrow on PC to have the room code read outloud. The web interface for the players is where most of the accessibility is as all visual elements, such as leaderboard changes, are audio described by screen readers. Accessibility for the specific minigames varies, but in general anything which doesn’t involve drawing, i.e. any word, trivia or creative writing games are fully accessible. Older games in the series from volume 6 down also have a few playable games, but don’t have the room code reading or enhanced audio descriptions on the website.
+- Dragon Ball: Sparking! Zero - playable, but requires a lot of OCR
