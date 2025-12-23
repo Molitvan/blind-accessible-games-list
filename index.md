@@ -61,6 +61,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Kilta (PC) - fully accessible
 - Firebird (PC) - fully accessible
 - Luck be a Landlord (PC) - fully accessible
+- Brok the Investigator (all platforms) - fully accessible w/audio description
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
