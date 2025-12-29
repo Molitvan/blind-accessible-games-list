@@ -1,8 +1,10 @@
 # A list of all blind-accessible videogames
 
-This is a list of every videogame accessible to the blind. For purposes of this article, blind means someone with no usable vision. For every game, it's level of accessibility will be described next to it.
+This is a list of every videogame accessible to the blind. For purposes of this article, blind means someone with no usable vision. For every game, its level of accessibility will be described next to it.
 
 For some games there is not enough information so feel free to leave your experiences in the comments. Also, if you know of any other blind-accessible games that aren't on this list, please write them down in the comments. You can also message me on Discord (my username is: molitvan).
+
+You can also [join the newly created Discord server](https://go.molitvan.me/AccessibleGamesDiscord)).
 
 This was originally started on June 18th, 2024 in the form of [this Reddit thread](https://www.reddit.com/r/Blind/comments/1dic7i8/a_list_of_all_blindaccessible_videogames/) and has since been moved here. A website for this list and more is planned in the future. Stay tuned!
 
