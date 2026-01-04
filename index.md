@@ -23,7 +23,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Stardew Valley (PC, with [the Stardew Access mod](https://github.com/stardew-access/stardew-access)) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
 - Plants vs Zombies (PC, with [the pvz-a11y mod](https://github.com/CG8516/PvZA11y)) - fully accessible
 - Diablo IV (all platforms) - mostly accessible, requires mental mapping in dungeons, nav assist only in overworld for now
-- Brock the Investigator (all platforms) - fully accessible w/audio description
+- Brok the Investigator (all platforms) - fully accessible w/audio description
 - Mortal Kombat 1 (all platforms) - fully accessible w/audio description
 - Slay the Spire (PC, with [the Say the Spire mod](https://github.com/bradjrenshaw/say-the-spire)) - fully accessible
 - Hearthstone (PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
@@ -47,7 +47,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Sequence Storm (PC) - fully accessible
 - Red and Black (PC) - fully accessible
 - Terraria (PC, with [the Terraria Access mod](https://github.com/ChipsAhoiMcCoy/TerrariaAccess)) - work in progress, under active development
-- Final Fantasy VI (PC, with [the FF6 Screen Reader mod](https://github.com/BlindGuyNW/FF6ScreenReader)) - work in progress, under active development
+- Final Fantasy VI (PC, with [the FF6 Screen Reader mod](https://github.com/BlindGuyNW/FF6ScreenReader)) - mostly accessible, fully completeable
 - Final Fantasy IX (PC, with [this fork of the Memoria engine](https://github.com/BlindGuyNW/FF6ScreenReader), download separately available [here](https://www.dropbox.com/scl/fo/020slj7xgabc2m2ynnuw0/AFj01-ZzB67TcSx2wa0mLtA?rlkey=ngodiwk2wdsh8eaieuj0rrxdl&dl=1)) - work in progress, under active development
 - Disco Elysium (PC, with [the Disco Accessibility mod](https://github.com/BlindGuyNW/disco-accessibility), download separately available [here](https://www.dropbox.com/scl/fo/5tpn0fdadkgb76ujprr8k/AItJ_UbPp2cMR3ctbJ2jAvE?rlkey=ma5zvumvumwhytbsr424eo5un&dl=1)) - fully accessible, requires both controller and keyboard, navigation needs some getting used to
 - Rimworld (PC, with [the Rimworld Access mod](https://www.dropbox.com/scl/fo/dy0cnxq5uy228f4quosjm/ADw6pSLSBSm5ZweePrir3A8?rlkey=rkmdvx1x3wud6zkln02kroi6v&dl=1)) - mostly accessible, limited information on what specifically isn't accessible, more info available [here](https://forum.audiogames.net/topic/58003/rimworld-access-public-release/)
@@ -63,7 +63,6 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Kilta (PC) - fully accessible
 - Firebird (PC) - fully accessible
 - Luck be a Landlord (PC) - fully accessible
-- Brok the Investigator (all platforms) - fully accessible w/audio description
 - Phoenix Wright: Ace Attorney Trilogy (PC, with [this mod](https://github.com/LordLuceus/PhoenixWrightTrilogy/)) - fully accessible
 - Hand of Fate (PC, with [this mod](https://github.com/Lirin111/Hand-of-Fate-Accessibility)) - fully accessible
 - Loco Motive (PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
@@ -72,6 +71,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Coffee Talk (PC, with [this mod](https://forum.audiogames.net/topic/57806/)) - limited information
 - Hand of Fate 2 (PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - fully accessible
 - A Space for the Unbound (PC, with [this mod](https://github.com/Lirin111/A-Space-For-The-Unbound-accessibility/)) - fully accessible
+- Final Fantasy V (PC, with [the FF5 screen reader mod](https://github.com/bladestorm360/FF5-Screen-Reader)) - mostly accessible, fully completable
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
