@@ -72,6 +72,10 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Hand of Fate 2 (PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - fully accessible
 - A Space for the Unbound (PC, with [this mod](https://github.com/Lirin111/A-Space-For-The-Unbound-accessibility/)) - fully accessible
 - Final Fantasy V (PC, with [the FF5 screen reader mod](https://github.com/bladestorm360/FF5-Screen-Reader)) - mostly accessible, fully completable
+- - Final Fantasy IV (PC, with [the FF4 Screen Reader mod](https://github.com/bladestorm360/FF4-Screen-Reader)) - mostly accessible, click the mod link for more information
+- Final Fantasy III (PC, with [the FF3 Screen Reader mod](https://github.com/bladestorm360/FF3-Screen-Reader)) - mostly accessible, click the mod link for more information
+- Final Fantasy II (PC, with [the FF2 Screen Reader mod](https://github.com/bladestorm360/FF2-Screen-Reader)) - mostly accessible, click the mod link for more information
+- Final Fantasy (PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
