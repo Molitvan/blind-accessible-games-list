@@ -77,6 +77,14 @@ For updates, questions and discussions about the list and the games on it, you c
 - Final Fantasy III (PC, with [the FF3 Screen Reader mod](https://github.com/bladestorm360/FF3-Screen-Reader)) - mostly accessible, click the mod link for more information
 - Final Fantasy II (PC, with [the FF2 Screen Reader mod](https://github.com/bladestorm360/FF2-Screen-Reader)) - mostly accessible, click the mod link for more information
 - Final Fantasy (PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
+- Cookie Clicker (PC (specifically the Steam version), with [this mod](https://github.com/FioraXena/Cookie-Clicker-Enhanced-NVDA-Accessibility-Steam-Only-)) - mostly accessible
+- Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - limited information
+- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - mostly accessible, more info available [here](https://forum.audiogames.net/topic/58335/) - fully accessible
+- Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - fully accessible
+- Pastel Parade (PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
+- Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
+- Strange Adventures In Infinite Space (PC, with [this mod](https://forum.audiogames.net/topic/58475/)) - mostly accessible
+- Diablo (PC, with [the Diablo Access mod](https://github.com/mojsior/diablo-access/)) - mostly accessible
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
