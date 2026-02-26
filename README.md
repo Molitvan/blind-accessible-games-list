@@ -4,7 +4,7 @@ This is a list of every videogame accessible to the blind. For purposes of this 
 
 For some games there is not enough information so feel free to leave suggestions in the Discord or by opening an issue or pull request on this repo.
 
-This was originally started on June 18th, 2024 in the form of [this Reddit thread](https://www.reddit.com/r/Blind/comments/1dic7i8/a_list_of_all_blindaccessible_videogames/) and has since been moved here. A website for this list and more is planned in the future. Stay tuned!
+This was originally started on June 18th, 2024 in the form of [this Reddit thread](https://www.reddit.com/r/Blind/comments/1dic7i8/a_list_of_all_blindaccessible_videogames/), then moved to [a GitHub gist](https://gist.github.com/Molitvan/50e3b5060ab9465b1da895155d5c0480) and was then finally moved here. A website for this list and more is planned in the future. Stay tuned!
 
 ## Join the Discord
 
