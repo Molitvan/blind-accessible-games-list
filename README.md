@@ -17,7 +17,7 @@ While I'm always trying to insure that the information here is as accurate as po
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
-- God of War Ragnarök (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
+- God of War Ragnarok (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
 - Spiderman 2 (PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game, but otherwise fully accessible)
 - Minecraft: Java Edition (PC, with [the Minecraft Access mod](https://mcaccess.org)) - mostly accessible, requires decent spatial awareness
 - Factorio (PC, with [the Factorio Access mod](https://github.com/factorio-access/factorio-access)) - fully accessible, very streamlined with things like an in-game tutorial specific to the mod that teaches you both the game and the mod
@@ -35,7 +35,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Hearthstone (PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
 - World of Warcraft (PC, with [the Blind Slash mod](https://www.curseforge.com/wow/addons/blindslash)) - mostly accessible, sighted assistance required in dungeons and end-game content
 - World of Warcraft Classic (PC, with [the SKU mod](https://www.curseforge.com/wow/addons/sku)) - not in active development as seen by the notice in the description. As such, I don't recommend it to new players, but I'm putting it here just to make it clear it exists for now.
-- Crusader Kings III (PC, [with a mod](https://forum.paradoxplaza.com/forum/threads/mod-ocr-support-a-mod-for-blind-and-visually-impaired-players.1619475/)) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputing text to a tts.
+- Crusader Kings III (PC, [with a mod](https://forum.paradoxplaza.com/forum/threads/mod-ocr-support-a-mod-for-blind-and-visually-impaired-players.1619475/)) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputting text to a tts.
 - Skull Girls (PC) - fully accessible
 - Balatro (PC, with [the Black Hole mod](https://github.com/Aurelius7309/BlackHole)) - fully accessible
 - Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
@@ -59,7 +59,7 @@ While I'm always trying to insure that the information here is as accurate as po
   - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
 - Bits and Bops (PC) - fully accessible w/audio description
 - Slots and Daggers (PC, with [this mod](https://forum.audiogames.net/topic/57985)) - fully accessible
-- DawnCaster (PC/Android/iOS, PC coming soon) - fully accessible w/audio description
+- DawnCaster (PC/Android/iOS) - fully accessible w/audio description
 - Pokemon Rejuvenation (PC, with [the Crawli Support Pack modpack](https://github.com/yrsegal/crawli-support-pack)) - playable, but very early
 - Pokemon Showdown (PC) - fully accessible
 - Microsoft Flight Simulator 2020 (PC) - more info available [here](https://bvipilots.net/)
@@ -82,7 +82,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Final Fantasy (PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
 - Cookie Clicker (PC (specifically the Steam version), with [this mod](https://github.com/FioraXena/Cookie-Clicker-Enhanced-NVDA-Accessibility-Steam-Only-)) - mostly accessible
 - Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - limited information
-- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - mmostly  inaccessible, more info available [here](https://forum.audiogames.net/topic/58335/) - partially accessible
+- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - partialy accessible, more info available [here](https://forum.audiogames.net/topic/58335/)
 - Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - mostly inaccessible
 - Pastel Parade (PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
 - Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
@@ -116,10 +116,15 @@ While I'm always trying to insure that the information here is as accurate as po
 - Stories of Blossom (PC) - fully accessible w/audio description
 - Stray Gods (PC) - partially accessible. Has audio description and accessible gameplay, but no menu narration
 - The Banner Saga (PC, with [this mod](http://n0n0ce.free.fr/TBS_Access/index.html)) - limited information, seems to be under active development but very slow
-- Doom (PC, with [the Toby Doom Accessibility mod](https://alando1.itch.io/)) - limited information
+- Doom, Doom 2, Heretic & Hexon(PC, with [the Toby Doom Accessibility mod](https://alando1.itch.io/)) - limited information
 - Super Auto Pets (PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SAPAccess-Release)) - work in progress, under active development
 - Clicker Heroes (PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - 
 - Silence (PC, with [the Silence Access mod](https://github.com/Lirin111/Silence---Access)) - work in progress, under active development
+- Sunlight (PC) - mostly accessible
+- Brilliant Shadows Part 1 (PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
+- Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) - limited information
+- Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - mostly inaccessible, development status unclear
+
 
 ## Accidentally accessible games
 
