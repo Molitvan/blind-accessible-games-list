@@ -120,10 +120,10 @@ While I'm always trying to insure that the information here is as accurate as po
 - Super Auto Pets (PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SAPAccess-Release)) - work in progress, under active development
 - Clicker Heroes (PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - 
 - Silence (PC, with [the Silence Access mod](https://github.com/Lirin111/Silence---Access)) - work in progress, under active development
-- Sunlight (PC) mostly accessible
--Brilliant Shadows Part 1 (PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) mostly accessible
-- Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) limited information
-- Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) mostly inaccessible, development status unclear
+- Sunlight (PC) - mostly accessible
+- Brilliant Shadows Part 1 (PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
+- Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) - limited information
+- Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - mostly inaccessible, development status unclear
 
 
 ## Accidentally accessible games
