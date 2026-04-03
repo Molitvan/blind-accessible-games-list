@@ -143,11 +143,11 @@ These are games that are playable, but without the developers or modders specifi
 # iOS Games
 - A Dark Room- fully accessible
 - Academy of Disaster - mostly accessible, with a few little bugs but over all very playable and easy to play
-Adventure to Fate (full series) – fully accessible
+- Adventure to Fate (full series) – fully accessible
 - A Few Minutes of Glory - fully accessible
 - AI Dungeon - partially accessible, although the web version is much better
 - Art of Fauna – fully accessible
-Art of Flora – fully accessible
+- Art of Flora – fully accessible
 - Baby Adopter and spinoffs - fully accessible
 - BattleCry - mostly accessible with a few issues
 - BitLife - fully accessible
