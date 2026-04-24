@@ -96,7 +96,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - A Dance of Fire and Ice (PC, with [the ADOFAI Access mod](https://github.com/Molitvan/adofai-access)) - work in progress, under active development
 - Fallout 4 (PC, with [the Fallout 4 Access mod](https://www.nexusmods.com/fallout4/mods/100314)) - work in progress, under active development
 - Death and Taxes (PC, with [the Death and Access mod](https://github.com/ObjectInSpace/Death-and-access/)) - mostly accessible
-- Magic: The Gathering Arena (PC, with [the Accessible Arena mod](https://github.com/JeanStiletto/AccessibleArena/)) - work in progress, under active development
+- Magic: The Gathering Arena (PC, with [the Accessible Arena mod](https://github.com/JeanStiletto/AccessibleArena/)) - fully accessible
 - Chicken Police (PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
 - Deep Rock Galactic Survivor (PC, with [the DRG Access mod](https://github.com/Ali-Bueno/drg-access/)) - work in progress, under active development
 - Slay the Spire 2 (PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - fully accessible
@@ -124,7 +124,17 @@ While I'm always trying to insure that the information here is as accurate as po
 - Brilliant Shadows Part 1 (PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
 - Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) - limited information
 - Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - mostly inaccessible, development status unclear
-
+- The Elder Scrolls V: Skyrim Anniversary Edition (PC, with [the Skyrim Accessibility](https://github.com/DioKyrie-Git/SkyrimAccessibility) and [Skyrim TTS](https://github.com/DioKyrie-Git/SkyrimTTS) mods) - work in progress, under active development, more information and resources available [here](https://github.com/DioKyrie-Git/SkyrimAccessibilityGuide)
+- 2XKO (all platforms) - fully accessible
+- Kingdom Two Crowns (PC, with [this mod](https://github.com/Zaykus/KTC-mod)) - work in progress, under active development
+- Marvel Snap (PC, with [the Snap Access mod](https://github.com/Destranis/snapaccess)) - work in progress, under active development
+- Dragon Warrior 1 (emulated on PC, with [the Dragon Warrior Access mod](https://github.com/GADeuvall2000/DragonWarriorAccess)) - work in progress, under active development
+- Kingdoms and Castles (PC, with [the KC Accessibility mod](https://github.com/chripa85/kc-accessibility/)) - work in progress, under active development
+- Gladiator Manager (PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - work in progress, under active development
+- Outer Wilds (PC, with [the Outer Wilds Access mod](https://github.com/PlatinumTsuki/OuterWildsAccess/)) - work in progress, under active development
+- WorldBox (PC, with [the WorldBox Access mod](https://github.com/Makenann/WorldBoxAccess/)) - mostly accessible
+- Rift Wizard 2 (PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - mostly accessible
+- Dragon Ball Sparking! Zero (PC, with [the Sparking Zero Access mod](https://github.com/AccessForge/SparkingZeroAccess)) - work in progress, under active development (note that this game is accidentally playable without the mod as well)
 
 ## Accidentally accessible games
 
@@ -135,7 +145,6 @@ These are games that are playable, but without the developers or modders specifi
 - Ninja Gaiden 3: OCR required, has navigation assist which makes it playable
 - Resident Evil 6: OCR required, has navigation assist which makes it playable.
 - The Jackbox party pack series, from volume 7 upwards including the starter pack. These are social games that work by having one player run the game and show it to others, either IRL on a tv or through a stream on a platform like Discord. The game menus are not narrated, but each minigame has unique music in the selection menu, and once a game is selected you can press up arrow on PC to have the room code read outloud. The web interface for the players is where most of the accessibility is as all visual elements, such as leaderboard changes, are audio described by screen readers. Accessibility for the specific minigames varies, but in general anything which doesn’t involve drawing, i.e. any word, trivia or creative writing games are fully accessible. Older games in the series from volume 6 down also have a few playable games, but don’t have the room code reading or enhanced audio descriptions on the website.
-- Dragon Ball: Sparking! Zero - playable, but requires a lot of OCR
 - Ninja Gaiden 4 - OCR required, has navigation assist which makes it playable
 - Animal Crossing: New Horizons - OCR required, has very good sound design and sound cues for almost everything in the game and is also very customizable
 - Final Fantasy XVI - has accidental navigation assist (animal instinct) which makes it technically somewhat playable
