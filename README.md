@@ -128,7 +128,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Brilliant Shadows Part 1 (PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
 - Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) - limited information
 - Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - mostly inaccessible, development status unclear
-- The Elder Scrolls V: Skyrim Anniversary Edition (PC, with [the Skyrim Accessibility](https://github.com/DioKyrie-Git/SkyrimAccessibility) and [Skyrim TTS](https://github.com/DioKyrie-Git/SkyrimTTS) mods) - work in progress, under active development, more information and resources available [here](https://github.com/DioKyrie-Git/SkyrimAccessibilityGuide)
+- The Elder Scrolls V: Skyrim Anniversary Edition (PC, with [the Skyrim Accessibility](https://github.com/DioKyrie-Git/SkyrimAccessibility) and [Skyrim TTS](https://github.com/DioKyrie-Git/SkyrimTTS) mods) - work in progress, under active development
 - 2XKO (all platforms) - fully accessible
 - Kingdom Two Crowns (PC, with [this mod](https://github.com/Zaykus/KTC-mod)) - work in progress, under active development
 - Marvel Snap (PC, with [the Snap Access mod](https://github.com/Destranis/snapaccess)) - work in progress, under active development
