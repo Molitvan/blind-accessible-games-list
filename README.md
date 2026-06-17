@@ -183,9 +183,11 @@ These are games that are playable, but without the developers or modders specifi
 - [Art of Flora](https://apps.apple.com/us/app/art-of-flora-cozy-puzzles/id6743834964)) – fully accessible
 - [Baby Adopter and spinoffs](https://apps.apple.com/us/app/baby-adopter/id425135290)) - fully accessible
 - [BattleCry](https://apps.apple.com/us/app/battlecry-world-war-game/id855212379)) - mostly accessible with a few issues
+- [Beyond the Chiron Gate](https://apps.apple.com/us/app/beyond-the-chiron-gate/id1624155440) - fully accessible
 - [BitLife](https://apps.apple.com/us/app/bitlife-life-simulator/id1374403536)) - fully accessible
 - [BitLife Dogs](https://apps.apple.com/us/app/bitlife-dogs-doglife/id1589129140)) - fully accessible
 - [Blackbox](https://apps.apple.com/us/app/blackbox/id962969578)) - fully accessible
+- [Citizens of Rome](https://apps.apple.com/us/app/citizen-of-rome/id1469244787) - fully accessible
 - [Eldrum](https://eldrum.com/)): all games in the series - fully accessible
 - [Galactic Colonies](https://apps.apple.com/us/app/galactic-colonies/id1240422237)) – fully accessible
 - [Godville](https://godvillegame.com/)) - fully accessible
