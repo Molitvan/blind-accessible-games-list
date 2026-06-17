@@ -74,7 +74,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Fortnite](https://www.fortnite.com/), PC, with [the FA11y mod](https://github.com/GreenBeanGravy/FA11y), aim assist available separately [here](https://discord.com/invite/bZa35NZy8Y)) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
 - [Forza Motorsport](https://www.xbox.com/en-GB/games/store/forza-motorsport/9PNQKHFLM2WQ), PC/Xbox) - fully accessible, high learning curve, includes audio description
 - [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin), PC, with [this fork](https://forum.audiogames.net/topic/57690/)) - fully accessible
-- [Gladiator Manager](https://store.steampowered.com/app/1251970/Gladiator_Manager/), PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - work in progress, under active development
+- [Gladiator Manager](https://store.steampowered.com/app/1251970/Gladiator_Manager/), PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - mostly accessible, a bit clunky
 - [God of War Ragnarok](https://store.steampowered.com/app/2322010/God_of_War_Ragnark/), PS4/PS5) - partially accessible, half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
 - [Hacknet](https://store.steampowered.com/app/365450/Hacknet/), PC, with [the Hacknet Access mod](https://github.com/zersiax/HacknetAccess)) - work in progress, under active development
 - [Hades](https://store.steampowered.com/app/1145360/Hades/), PC, with [the Erumi's Blind Accessibility Options modpack](https://hllf.net/hades)) - playable, but a bit tricky at times, uses OCR
@@ -118,7 +118,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
   - Without mods: fully accessible w/audio description, except the custom level editor
   - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
 - [Rift Wizard 2](https://store.steampowered.com/app/2058570/Rift_Wizard_2/), PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
-- [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible, with DLC support coming soon
+- [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible
 - [Sequence Storm](https://store.steampowered.com/app/630640/Sequence_Storm/), PC) - fully accessible
 - [Sid Meier's Alpha Centauri](https://www.gog.com/en/game/sid_meiers_alpha_centauri), PC, with [the SMAC Access mod](https://github.com/HappyStarfish/smac-access)) - work in progress, under active development
 - pSid Meier's Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/), PC, with [the Civ V Access mod](https://github.com/rashadnaqeeb/Civ-V-Access)) - fully accessible, requires the Brave New World Expansion
@@ -128,7 +128,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Skull Girls](https://store.steampowered.com/app/245170/Skullgirls_2nd_Encore/), PC) - fully accessible
 - [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/), PC, with [the Say the Spire mod](https://github.com/bradjrenshaw/say-the-spire)) - fully accessible
 - [Slay the Spire 2](https://store.steampowered.com/app/2868840/Slay_the_Spire_2/), PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - fully accessible
-- [Slots and Daggers](https://store.steampowered.com/app/3631290/Slots__Daggers/), PC, with [this mod](https://forum.audiogames.net/topic/57985)) - fully accessible
+- [Slots and Daggers](https://store.steampowered.com/app/3631290/Slots__Daggers/), PC, with [this mod](https://forum.audiogames.net/topic/57985)) - mostly accessible
 - [Songs of Conquest](https://store.steampowered.com/app/867210/Songs_of_Conquest/), PC, with [the Songs of Conquest Access mod](https://neurrone.github.io/soc-access/intro.html)) - work in progress, under active development
 - [Soulblaze](https://store.steampowered.com/app/3505230/Soulblaze/), PC) - fully accessible
 - [Spiderman 2](https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/), PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game, but otherwise fully accessible)
