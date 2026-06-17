@@ -38,7 +38,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Brok the Investigator](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/), all platforms) - fully accessible w/audio description
 - [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/), PC, with [this mod]( https://github.com/Lethal-Lawnmower/BuckshotRoulette-Accessibility-Mod)) - mostly accessible
 - [Chicken Police](https://store.steampowered.com/app/1084640/Chicken_Police__Paint_it_RED/), PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
-- [Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes/), PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - 
+- [Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes/), PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - mostly accessible, although the mod is a content mod on top of being an accessibility mod
 - [Coffee Talk](https://store.steampowered.com/app/914800/Coffee_Talk/), PC, with [this mod](https://forum.audiogames.net/topic/57806/)) - limited information
 - [Conjury](https://store.steampowered.com/app/2684520/Conjury/), PC/Android/iOS) - fully accessible
 - [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/), PC (specifically the Steam version), with [this mod](https://github.com/FioraXena/Cookie-Clicker-Enhanced-NVDA-Accessibility-Steam-Only-)) - mostly accessible
@@ -79,7 +79,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Hacknet](https://store.steampowered.com/app/365450/Hacknet/), PC, with [the Hacknet Access mod](https://github.com/zersiax/HacknetAccess)) - work in progress, under active development
 - [Hades](https://store.steampowered.com/app/1145360/Hades/), PC, with [the Erumi's Blind Accessibility Options modpack](https://hllf.net/hades)) - playable, but a bit tricky at times, uses OCR
 - [Hades II.](https://store.steampowered.com/app/1145350/Hades_II/), PC, with [the Hades II Access](https://thunderstore.io/c/hades-ii/p/FlatArther/HadesIIAccess/), [the Blind Accessibility](https://thunderstore.io/c/hades-ii/p/Lirin/Blind_Accessibility/) and [the Tolk Compatibility](https://thunderstore.io/c/hades-ii/p/Lirin/Hades_2_TOLk_Compatibility/) mods) - mostly accessible, with dodging attacks and locating enemies sometimes being a bit tricky. For the Hades II Access mod, more information can be found at [the mod's GitHub](https://github.com/flat-arther/FlatArther-HadesIIAccess-Public) and for the Blind Accessibility and Tolk Compatibility mods, a post by the developer with more information can be found [here](https://forum.audiogames.net/topic/53522/)
-- [Hand of Fate](https://store.steampowered.com/app/266510/Hand_of_Fate/), PC, with [this mod](https://github.com/Lirin111/Hand-of-Fate-Accessibility)) - partially accessible, development status unclear
+- [Hand of Fate](https://store.steampowered.com/app/266510/Hand_of_Fate/), PC, with [the hand of Fate Access mod](https://github.com/rashadnaqeeb/hand-of-fate-access)) - partially accessible, development status unclear
 - [Hand of Fate 2](https://store.steampowered.com/app/456670/Hand_of_Fate_2/), PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - partially accessible, development status unclear
 - [Hearthstone](https://hearthstone.blizzard.com/), PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
 - [Heaven Studio](https://rheavenstudio.github.io/), PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - fully accessible, except making remixes
@@ -90,6 +90,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Loco Motive](https://store.steampowered.com/app/1709880/Loco_Motive/), PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
 - [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/), PC) - fully accessible
 - [Magic: The Gathering Arena](https://magic.wizards.com/en/mtgarena), PC, with [the Accessible Arena mod](https://github.com/JeanStiletto/AccessibleArena/)) - fully accessible
+- [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64) PC, with [the Super Blind Kart fork of the Spagethie Kart project]) - work in progress, under active development
 - [Marvel Snap](https://www.marvelsnap.com/), PC, with [the Snap Access mod](https://github.com/Destranis/snapaccess)) - work in progress, under active development
 - [Melatonin](https://store.steampowered.com/app/1585220/Melatonin/), PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
 - [Microsoft Flight Simulator 2020](https://www.flightsimulator.com/microsoft-flight-simulator/), PC) - more info available [here](https://bvipilots.net/)
@@ -101,8 +102,10 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - Most games made in Ren'Py e.g. [Doki Doki Literature Club](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/), [Slay the Princess](https://store.steampowered.com/app/1989270/Slay_the_Princess/)... (PC, sometimes with a mod) - fully accessible
   - Note that not every Ren'Py game is guaranteed to be accessible
   - There is [this mod](https://forum.audiogames.net/topic/58348/updated-v81-is-here-accessibility-for-all-renpy-games/) which tries to make every Ren'Py game accessible, but it isn't guaranteed to work
+- [No, I'm not a Human](https://store.steampowered.com/app/3180070/No_Im_not_a_Human/), PC, with [the I'm a blind human mod](https://github.com/ObjectInSpace/im-a-blind-human) - work in progress, under active development
 - [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/), PC, with [the Outer Wilds Access mod](https://github.com/PlatinumTsuki/OuterWildsAccess/)) - work in progress, under active development
 - [Oxygen not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/), PC, with [the ONI Access mod](https://github.com/rashadnaqeeb/OniAccess)) - fully accessible
+- [Plague Inc: Evolved](https://store.steampowered.com/app/246620/Plague_Inc_Evolved/), PC, with [the Pie Access mod](https://arctic-labs.com/p/pie-access) - work in progress, under active development
 - [Pastel Parade](https://store.steampowered.com/app/2685840/PastelParade/), PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
 - [Phoenix Wright: Ace Attorney Trilogy](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/), PC, with [this mod](https://github.com/LordLuceus/PhoenixWrightTrilogy/)) - fully accessible
 - [Plants vs Zombies](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/), PC, with [the pvz-a11y mod](https://github.com/CG8516/PvZA11y)) - fully accessible
@@ -136,7 +139,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Stories of Blossom](https://store.steampowered.com/app/1581680/Stories_of_Blossom/), PC) - fully accessible w/audio description
 - [Strange Adventures In Infinite Space](https://rich.itch.io/strangeadventures), PC, with [this mod](https://forum.audiogames.net/topic/58475/)) - mostly accessible
 - [Stray Gods](https://store.steampowered.com/app/1920780/Stray_Gods_The_Roleplaying_Musical/), PC) - partially accessible. Has audio description and accessible gameplay, but no menu narration
-- [Street Fighter 6](https://store.steampowered.com/app/1364780/Street_Fighter_6/), all platforms) - partially accessible gameplay with features like accessibility audio cues, but with no screen reader. Also some parts of the game like the singleplayer campaign aren't really accessible. Works well with OCR
+- [Street Fighter 6](https://store.steampowered.com/app/1364780/Street_Fighter_6/), PC, with [the SF6 Access mod](https://github.com/Ali-Bueno/sf6Access)) - work in progress, under active development
 - [Sunless Sea](https://store.steampowered.com/app/304650/SUNLESS_SEA/), PC, with [the Sunless Sea Access mod](https://git.alex19ep.me/alex19EP/SunlessSeaAccess)) - mostly accessible, with the combat system not being that user friendly yet
 - [Sunlight](https://store.steampowered.com/app/1451120/Sunlight/), PC) - mostly accessible
 - [Super Auto Pets](https://store.steampowered.com/app/1714040/Super_Auto_Pets/), PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SuperAutoAccessibility)) - work in progress, under active development
