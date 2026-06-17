@@ -26,7 +26,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 ## Games
 - [1428: Shadows Over Silesia](https://store.steampowered.com/app/1228500/1428_Shadows_over_Silesia/), PC) - fully accessible w/audio description
 - [2XKO](https://2xko.riotgames.com/), all platforms) - fully accessible
-- [A Dance of Fire and Ice](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/), PC, with [the ADOFAI Access mod](https://github.com/Molitvan/adofai-access)) - work in progress, under active development
+- [A Dance of Fire and Ice](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/), PC, with [the ADOFAI Access mod](https://molitvan.me/projects/adofai-access)) - work in progress, under active development
 - [A Space for the Unbound](https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/), PC, with [this mod](https://github.com/Lirin111/A-Space-For-The-Unbound-accessibility/)) - fully accessible
 - [Against the Storm](https://store.steampowered.com/app/1336490/Against_the_Storm/), PC, with [this mod](https://github.com/rashadnaqeeb/ats-accessibility-mod/)) - fully accessible
 - [Alt Frequencies](https://altfrequencies.com/), all platforms) - fully accessible
