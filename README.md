@@ -84,6 +84,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Hearthstone](https://hearthstone.blizzard.com/), PC, with [the Hearthstone Access mod](https://hearthstoneaccess.com)) - fully accessible
 - [Heaven Studio](https://rheavenstudio.github.io/), PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - fully accessible, except making remixes
 - [Heroes of Might and Magic 3](https://www.gog.com/en/game/heroes_of_might_and_magic_3_complete_edition), PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
+- [Hogwarts Live](https://hogwartslive.com/), browser) - mostly accessible, a free persistent browser-based text RPG with native screen reader support, no mod required
 - [Kilta](https://store.steampowered.com/app/1401560/Kilta/), PC) - fully accessible
 - [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/), PC, with [the KC Accessibility mod](https://github.com/chripa85/kc-accessibility/)) - work in progress, under active development
 - [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/), PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - partially accessible
