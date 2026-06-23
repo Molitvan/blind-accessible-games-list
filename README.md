@@ -120,6 +120,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/), PC)
   - Without mods: fully accessible w/audio description, except the custom level editor
   - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
+- [Rhythm Heaven Groove](https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/), Switch/Switch 2 - mostly accessible, first option when booting up the game is how much voiceover you want. Options include reading on-screen text, reading all on-screen text and image descriptions (such as characters), or no reading at all
 - [Rift Wizard 2](https://store.steampowered.com/app/2058570/Rift_Wizard_2/), PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
 - [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible
 - [Sequence Storm](https://store.steampowered.com/app/630640/Sequence_Storm/), PC) - fully accessible
