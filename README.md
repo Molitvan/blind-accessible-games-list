@@ -90,7 +90,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Loco Motive](https://store.steampowered.com/app/1709880/Loco_Motive/), PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
 - [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/), PC) - fully accessible
 - [Magic: The Gathering Arena](https://magic.wizards.com/en/mtgarena), PC, with [the Accessible Arena mod](https://github.com/JeanStiletto/AccessibleArena/)) - fully accessible
-- [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64) PC, with [the Super Blind Kart fork of the Spagethie Kart project]) - work in progress, under active development
+- [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64) PC, with [the Super Blind Kart fork of the Spagethie Kart project](https://github.com/Ali-Bueno/SpaghettiKart)) - work in progress, under active development
 - [Marvel Snap](https://www.marvelsnap.com/), PC, with [the Snap Access mod](https://github.com/Destranis/snapaccess)) - work in progress, under active development
 - [Melatonin](https://store.steampowered.com/app/1585220/Melatonin/), PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
 - [Microsoft Flight Simulator 2020](https://www.flightsimulator.com/microsoft-flight-simulator/), PC) - more info available [here](https://bvipilots.net/)
