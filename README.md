@@ -62,6 +62,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [F1 25](https://www.ea.com/games/f1/f1-25), all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 - [Factorio](https://store.steampowered.com/app/427520/Factorio/), PC, with [the Factorio Access mod](https://github.com/factorio-access/factorio-access)) - fully accessible, very streamlined with things like an in-game tutorial specific to the mod that teaches you both the game and the mod
 - [Fallout 4](https://store.steampowered.com/app/377160/Fallout_4/), PC, with [the Fallout 4 Access mod](https://www.nexusmods.com/fallout4/mods/100314)) - work in progress, under active development
+- [Fear and Hunger](https://store.steampowered.com/app/1002300/Fear__Hunger/), PC, with [this mod](https://github.com/aefren/fear-and-hunger-accessibility)) - work in progress, under active development
 - [Final Fantasy](https://store.steampowered.com/app/1173770/FINAL_FANTASY/), PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
 - [Final Fantasy II](https://store.steampowered.com/app/1173780/FINAL_FANTASY_II/), PC, with [the FF2 Screen Reader mod](https://github.com/bladestorm360/FF2-Screen-Reader)) - mostly accessible, click the mod link for more information
 - [Final Fantasy III](https://store.steampowered.com/app/1173790/FINAL_FANTASY_III/), PC, with [the FF3 Screen Reader mod](https://github.com/bladestorm360/FF3-Screen-Reader)) - mostly accessible, click the mod link for more information
@@ -109,6 +110,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Oxygen not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/), PC, with [the ONI Access mod](https://github.com/rashadnaqeeb/OniAccess)) - fully accessible
 - [Plague Inc: Evolved](https://store.steampowered.com/app/246620/Plague_Inc_Evolved/), PC, with [the Pie Access mod](https://arctic-labs.com/p/pie-access) - work in progress, under active development
 - [Pastel Parade](https://store.steampowered.com/app/2685840/PastelParade/), PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
+- [Persona 4 Golden](https://store.steampowered.com/app/1113000/Persona_4_Golden/), PC, with [the Persona 4 Golden Access mod](https://github.com/AquaRose7/Persona-4-Golden-Access)) - work in progress, under active development
 - [Phoenix Wright: Ace Attorney Trilogy](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/), PC, with [this mod](https://github.com/LordLuceus/PhoenixWrightTrilogy/)) - fully accessible
 - [Plants vs Zombies](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/), PC, with [the pvz-a11y mod](https://github.com/CG8516/PvZA11y)) - fully accessible
 - [Pokémon Reborn](https://www.rebornevo.com/pr/index.html/), PC)
@@ -116,6 +118,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
   - with [the PK Reborn Access mod](https://github.com/fclorenzo/pkreborn-access) - improves the experience with a lot of features including proper nav assist and improving menu narration in some screens
 - [Pokemon Rejuvenation](https://www.rebornevo.com/rejuv/), PC, with [the Crawli Support Pack modpack](https://github.com/yrsegal/crawli-support-pack)) - playable, but very early
 - [Pokemon Showdown](https://pokemonshowdown.com/), PC) - fully accessible
+- [Pokemon TCG Live](https://tcg.pokemon.com/en-us/tcgl/), PC, with [this mod](https://accessibilitymods.com/mods/tcg-live/) - fully accessible
 - [Pokemon: all GBC and GBA Pokemon games including some ROM hacks](https://www.pokemon.com/us/pokemon-video-games), emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - fully accessible
 - [Red & Black](https://store.steampowered.com/app/2365780/_RedBlack/), PC) - playable, accessibility features can be a bit tedious to use
 - [Reigns](https://store.steampowered.com/app/474750/Reigns/), PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
@@ -124,7 +127,9 @@ Throughout the list you might find some terms like fully accessible, mostly acce
   - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
 - [Rhythm Heaven Groove](https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/), Switch/Switch 2 - fully accessible w/audio description
 - [Rift Wizard 2](https://store.steampowered.com/app/2058570/Rift_Wizard_2/), PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
+- [Rift Wizard 3](https://store.steampowered.com/app/4366330/Rift_Wizard_3/), PC, with [the Words of Power II mod](https://github.com/EarthboundPromoter/Words-of-Power-II) - work in progress, under active development
 - [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible
+- [Roller Coaster Tycoon 2](https://store.steampowered.com/app/285330/), PC, with [the Roller Coaster Tycoon 2 Access mod](https://github.com/RossMinor/OpenRCT2-Access)) - work in progress, under active development
 - [Sequence Storm](https://store.steampowered.com/app/630640/Sequence_Storm/), PC) - fully accessible
 - [Sid Meier's Alpha Centauri](https://www.gog.com/en/game/sid_meiers_alpha_centauri), PC, with [the SMAC Access mod](https://github.com/HappyStarfish/smac-access)) - work in progress, under active development
 - pSid Meier's Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/), PC, with [the Civ V Access mod](https://github.com/rashadnaqeeb/Civ-V-Access)) - fully accessible, requires the Brave New World Expansion
