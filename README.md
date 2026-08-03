@@ -196,6 +196,9 @@ These are games that are playable, but without the developers or modders specifi
 # iOS Games
 - [A Dark Room](https://apps.apple.com/us/app/a-dark-room/id736683061)) - fully accessible
 - [Academy of Disaster](https://apps.apple.com/us/app/academy-of-disaster/id1124589089)) - mostly accessible, with a few little bugs but over all very playable and easy to play
+- [Accessible Math Match](https://apps.apple.com/us/app/accessible-math-match/id6737813782) - fully accessible
+- [Accessible Solitaire](https://apps.apple.com/us/app/accessible-solitaire/id6737259014) - fully accessible
+- [Akinator](https://apps.apple.com/us/app/akinator/id933135994) - mostly accessible
 - [Adventure to Fate](https://adventuretofate.com/), full series) – fully accessible
 - [A Few Minutes of Glory](https://apps.apple.com/us/app/a-few-minutes-of-glory/id1447578204)) - fully accessible
 - [AI Dungeon](https://aidungeon.com/)) - partially accessible, although the web version is much better
@@ -207,19 +210,32 @@ These are games that are playable, but without the developers or modders specifi
 - [BitLife](https://apps.apple.com/us/app/bitlife-life-simulator/id1374403536)) - fully accessible
 - [BitLife Dogs](https://apps.apple.com/us/app/bitlife-dogs-doglife/id1589129140)) - fully accessible
 - [Blackbox](https://apps.apple.com/us/app/blackbox/id962969578)) - fully accessible
+- [Brailliance](https://apps.apple.com/us/app/brailliance-learn-braille/id6478794947) - fully accessible
+- [Card World](https://apps.apple.com/us/app/card-world-rummy-hearts-gin/id6758811569) - fully accessible
 - [Citizens of Rome](https://apps.apple.com/us/app/citizen-of-rome/id1469244787) - fully accessible
+- [Dice World](https://apps.apple.com/us/app/yatzy-farkle-dice-world/id553269986) - fully accessible
 - [Eldrum](https://eldrum.com/)): all games in the series - fully accessible
+- [Feer](https://apps.apple.com/us/app/feer/id1422421760) - fully accessible
 - [Galactic Colonies](https://apps.apple.com/us/app/galactic-colonies/id1240422237)) – fully accessible
 - [Godville](https://godvillegame.com/)) - fully accessible
 - [Idle Crafting Kingdom](https://apps.apple.com/us/app/idle-crafting-kingdom/id1190611967)) - fully accessible
 - [Invisible Dragons](https://apps.apple.com/us/app/invisible-dragons/id1073578968)) – fully accessible
 - [King of Dragon Pass](https://apps.apple.com/us/app/king-of-dragon-pass/id335545504)) - fully accessible
 - [Land Of Livia](https://landoflivia.com/)) – fully accessible
+- [Letterfull](https://apps.apple.com/us/app/letterfull/id1639843494) - fully accessible
 - [Lords and Knights](https://www.lordsandknights.com/), and spinoffs) - fully accessible
+- [Lost Vault: AFK Retro RPG](https://apps.apple.com/us/app/lost-vault-afk-retro-rpg/id1579912571) - fully accessible
 - [Nano Empire](https://apps.apple.com/us/app/nano-empire/id994354970)) – fully accessible
+- [Numbers Game - 6 Number Puzzle](https://apps.apple.com/us/app/numbers-game-6-number-puzzle/id641762250) - mostly accessible
+- [Palabra Cadabra](https://apps.apple.com/us/app/palabra-cadabra/id1552837928) - fully accessible
 - [Seedship](https://johnayliff.itch.io/seedship)) - fully accessible
+- [Shift the Disks](https://apps.apple.com/us/app/shift-the-disks/id6746863384) - fully accessible
 - Six Ages 1 and 2 (game links: [Six Ages: Ride Like the Wind](https://apps.apple.com/us/app/six-ages-ride-like-the-wind/id934012726), [Six Ages 2: Lights Going Out](https://apps.apple.com/us/app/six-ages-2-lights-going-out/id1231955010)) - fully accessible
+- [Swordy Quest: An RPG Adventure](https://apps.apple.com/us/app/swordy-quest-an-rpg-adventure/id1446641513) - fully accessible
 - [The Ensign](https://apps.apple.com/us/app/the-ensign/id908073488)) - fully accessible
+- [Warshovel: Idle RPG](https://apps.apple.com/us/app/warshovel-idle-rpg/id6448621270) - fully accessible
+- [Word Bopper](https://apps.apple.com/us/app/wordbopper/id6766375951) - fully accessible
+- [Wordvoyance](https://apps.apple.com/us/app/wordvoyance/id1672135719) - fully accessible
 
 ## Donate
 
