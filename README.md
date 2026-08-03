@@ -221,11 +221,11 @@ These are games that are playable, but without the developers or modders specifi
 - [King of Dragon Pass](https://apps.apple.com/us/app/king-of-dragon-pass/id335545504)) - fully accessible
 - [Land Of Livia](https://landoflivia.com/)) – fully accessible
 - [Len-Guard](https://apps.apple.com/us/app/lenguard/id6747782520) - Fully accessible
-- [LetterRescue](https://apps.apple.com/app/id6793154711) -Fully accessible
+- [LetterRescue](https://apps.apple.com/app/id6793154711) - Fully accessible
 - [Lords and Knights](https://www.lordsandknights.com/), and spinoffs) - fully accessible
 - [Nano Empire](https://apps.apple.com/us/app/nano-empire/id994354970)) – fully accessible
 - [Package Hero](https://apps.apple.com/us/app/package-hero/id6785399401) - Fully accessible
-- [Path of Adventure](https://apps.apple.com/us/app/path-of-adventure/id1449457468) -Fully Accessible
+- [Path of Adventure](https://apps.apple.com/us/app/path-of-adventure/id1449457468) - Fully Accessible
 - [Pet Jima, Cozy Pixel Creature Collection](https://apps.apple.com/us/app/pet-jima/id6758033343) - Mostly accessible
 - [Pixel Bowling](https://apps.apple.com/us/app/pixel-bowling/id6759185988) - Fully accessible
 - [Race To Nowhere](https://apps.apple.com/us/app/treble-bull/id6774244115) - Fully accessible
