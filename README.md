@@ -34,6 +34,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Alt Frequencies](https://altfrequencies.com/), all platforms) - fully accessible
 - [As Dusk Falls](https://www.asduskfalls.com/), PC/PS5/Xbox) - fully accessible w/audio description (the game is also available for PS4, but that version is not accessible)
 - [Balatro](https://store.steampowered.com/app/2379780/Balatro/), PC, with [the Blindfold mod](https://github.com/bradjrenshaw/blindfold/)) - fully accessible
+- [Battle Brothers](https://store.steampowered.com/app/365360/Battle_Brothers/), PC, with [The Unseen Banner mod](https://github.com/aefren/the-unseen-banner)) - mostly accessible
 - [Bits and Bops](https://store.steampowered.com/app/1929290/Bits__Bops/), PC) - fully accessible w/audio description
 - [Blippo Plus](https://store.steampowered.com/app/3323850/Blippo/), PC, with [the Blippo Access mod](https://github.com/zersiax/BlippoAccess)) - fully accessible
 - [Brilliant Shadows Part 1](https://store.steampowered.com/app/409920/Brilliant_Shadows__Part_One_of_the_Book_of_Gray_Magic/), PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
@@ -138,6 +139,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Sequence Storm](https://store.steampowered.com/app/630640/Sequence_Storm/), PC) - fully accessible
 - [Sid Meier's Alpha Centauri](https://www.gog.com/en/game/sid_meiers_alpha_centauri), PC, with [the SMAC Access mod](https://github.com/HappyStarfish/smac-access)) - work in progress, under active development
 - [Sid Meier's Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/), PC, with [the Civ V Access mod](https://github.com/rashadnaqeeb/Civ-V-Access)) - fully accessible, requires the Brave New World Expansion
+- [Sid Meier's Civilization VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/), PC, with [this mod](https://github.com/flat-arther/Civ-VI-Accessibility-Integration)) - fully accessible
 - [Silence](https://store.steampowered.com/app/314790/Silence/), PC, with [the Silence Access mod](https://github.com/Lirin111/Silence---Access)) - work in progress, under active development
 - [Six Ages: Ride Like the Wind](https://store.steampowered.com/app/881420/Six_Ages_Ride_Like_the_Wind/), PC, with [this mod](https://github.com/HappyStarfish/six-ages-1-accessibility/)) - work in progress, under active development
 - [Six Ages 2: Lights Going Out](https://store.steampowered.com/app/2278010/Six_Ages_2_Lights_Going_Out/), PC, with [this mod](https://github.com/HappyStarfish/six-ages-2-accessibility/)) - work in progress, under active development
@@ -169,6 +171,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [The Last of Us part II.](https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/), PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
 - [The Life and Suffering of Sir Brante](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/), PC, with [the Brante Access mod](https://github.com/rashadnaqeeb/brante-access/) - fully accessible
 - [Undertale](https://store.steampowered.com/app/391540/Undertale/), PC, with [this mod](https://github.com/liliancoghlan1-tech/undertale-nvda-access) - mostly accessible
+- [Wasteland 2](https://store.steampowered.com/agecheck/app/240760/), PC, with [this mod](https://github.com/Berenion/wasteland2-accessibility-mod)) - work in progress, under active development
 - [Welcome to the Dark Place](https://store.steampowered.com/app/1135700/Welcome_To_The_Dark_Place/), PC, with [this mod](https://github.com/Jericho-Dread/welcome-to-the-dark-place-accessibility-mods)) - work in progress, under active development
 - [Who wants to be a millionaire?](https://store.steampowered.com/app/1356240/Who_Wants_To_Be_A_Millionaire/), PC, with [this mod](https://forum.audiogames.net/topic/58369)) - partially accessible
 - [World Empire 2027 and spinoffs](https://store.steampowered.com/app/1873540/World_Empire_2027/), PC/Android/iOS) - fully accessible
@@ -178,6 +181,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [XMage](http://xmage.today/), PC, with [the XMage Access mod](https://github.com/CatalystForChaos/xmage-access)) - fully accessible
 - [Yu Gi Oh: Duel Links](https://store.steampowered.com/app/601510/YuGiOh_Duel_Links/), PC, with [the Duel Links Access mod](https://github.com/zersiax/DuelLinksAccess)) - work in progress, under active development
 - [Yu Gi Oh: Master Duel](https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/), PC, with [the Blind Duel mod](https://github.com/realamethyst/blindduel)) - mostly accessible
+- [Zafehouse: Diaries](https://store.steampowered.com/app/249360/Zafehouse_Diaries/), PC, with [the Zafehouse Access mod](https://github.com/Vicorin/Zafehouse-Access)) - fully accessible
 - [Zelda 1](https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html), emulated on PC, with [the Zelda1Access mod](https://github.com/gadeuvall2000/zelda1access)) - fully accessible
 
 ## Accidentally accessible games
