@@ -38,7 +38,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Blippo Plus](https://store.steampowered.com/app/3323850/Blippo/), PC, with [the Blippo Access mod](https://github.com/zersiax/BlippoAccess)) - fully accessible
 - [Brilliant Shadows Part 1](https://store.steampowered.com/app/409920/Brilliant_Shadows__Part_One_of_the_Book_of_Gray_Magic/), PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
 - [Brok the Investigator](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/), all platforms) - fully accessible w/audio description
-- [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/), PC, with [this mod]( https://github.com/Lethal-Lawnmower/BuckshotRoulette-Accessibility-Mod)) - mostly accessible
+- [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/), PC, with [this mod](https://arctic-labs.com/buckshot-roulette-access)) - Fully accessible
 - [Chicken Police](https://store.steampowered.com/app/1084640/Chicken_Police__Paint_it_RED/), PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
 - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/), PC, with [the Citizen Speaker mod](https://github.com/EarthboundPromoter/Citizen-Speaker)) - fully accessible
 - [Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes/), PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - mostly accessible, although the mod is a content mod on top of being an accessibility mod
@@ -196,9 +196,12 @@ These are games that are playable, but without the developers or modders specifi
 # iOS Games
 - [A Dark Room](https://apps.apple.com/us/app/a-dark-room/id736683061)) - fully accessible
 - [Academy of Disaster](https://apps.apple.com/us/app/academy-of-disaster/id1124589089)) - mostly accessible, with a few little bugs but over all very playable and easy to play
+- [Akari Glow: Light Up Puzzles](https://apps.apple.com/br/app/akari-glow-light-up-puzzles/id6759948370) - Fully accessible
 - [Adventure to Fate](https://adventuretofate.com/), full series) – fully accessible
 - [A Few Minutes of Glory](https://apps.apple.com/us/app/a-few-minutes-of-glory/id1447578204)) - fully accessible
 - [AI Dungeon](https://aidungeon.com/)) - partially accessible, although the web version is much better
+- [All Choice Of Games](https://www.choiceofgames.com/) - Fully accessible
+- [All Hosted Games(https://hostedgames.org/) - Fully accessible
 - [Art of Fauna](https://apps.apple.com/us/app/art-of-fauna-cozy-puzzles/id1630468596)) – fully accessible
 - [Art of Flora](https://apps.apple.com/us/app/art-of-flora-cozy-puzzles/id6743834964)) – fully accessible
 - [Baby Adopter and spinoffs](https://apps.apple.com/us/app/baby-adopter/id425135290)) - fully accessible
@@ -209,18 +212,29 @@ These are games that are playable, but without the developers or modders specifi
 - [Blackbox](https://apps.apple.com/us/app/blackbox/id962969578)) - fully accessible
 - [Citizens of Rome](https://apps.apple.com/us/app/citizen-of-rome/id1469244787) - fully accessible
 - [Eldrum](https://eldrum.com/)): all games in the series - fully accessible
+- [Evelyn's Farm](https://apps.apple.com/us/app/evelyns-farm/id1490259856) - Fully accessible
 - [Galactic Colonies](https://apps.apple.com/us/app/galactic-colonies/id1240422237)) – fully accessible
 - [Godville](https://godvillegame.com/)) - fully accessible
+- [Guess the Rule: Logic Puzzles](https://apps.apple.com/us/app/guess-the-rule-logic-puzzles/id1550411766) - Fully accessible
 - [Idle Crafting Kingdom](https://apps.apple.com/us/app/idle-crafting-kingdom/id1190611967)) - fully accessible
 - [Invisible Dragons](https://apps.apple.com/us/app/invisible-dragons/id1073578968)) – fully accessible
 - [King of Dragon Pass](https://apps.apple.com/us/app/king-of-dragon-pass/id335545504)) - fully accessible
 - [Land Of Livia](https://landoflivia.com/)) – fully accessible
+- [Len-Guard](https://apps.apple.com/us/app/lenguard/id6747782520) - Fully accessible
+- [LetterRescue](https://apps.apple.com/app/id6793154711) - Fully accessible
 - [Lords and Knights](https://www.lordsandknights.com/), and spinoffs) - fully accessible
 - [Nano Empire](https://apps.apple.com/us/app/nano-empire/id994354970)) – fully accessible
+- [Package Hero](https://apps.apple.com/us/app/package-hero/id6785399401) - Fully accessible
+- [Path of Adventure](https://apps.apple.com/us/app/path-of-adventure/id1449457468) - Fully Accessible
+- [Pet Jima, Cozy Pixel Creature Collection](https://apps.apple.com/us/app/pet-jima/id6758033343) - Mostly accessible
+- [Pixel Bowling](https://apps.apple.com/us/app/pixel-bowling/id6759185988) - Fully accessible
+- [Race To Nowhere](https://apps.apple.com/us/app/treble-bull/id6774244115) - Fully accessible
+- [Sequvo - Music Puzzle Game](https://apps.apple.com/app/sequvo-music-puzzle-game/id6760843901) - Fully accessible
 - [Seedship](https://johnayliff.itch.io/seedship)) - fully accessible
+- [Shoot for the Stars: Journey](https://apps.apple.com/us/app/shoot-for-the-stars-journey/id6771251009) - Fully accessible
 - Six Ages 1 and 2 (game links: [Six Ages: Ride Like the Wind](https://apps.apple.com/us/app/six-ages-ride-like-the-wind/id934012726), [Six Ages 2: Lights Going Out](https://apps.apple.com/us/app/six-ages-2-lights-going-out/id1231955010)) - fully accessible
 - [The Ensign](https://apps.apple.com/us/app/the-ensign/id908073488)) - fully accessible
-
+- [Timecrest](https://apps.apple.com/us/app/timecrest/id1027546326) - Fully accessible
 ## Donate
 
 If you like this project or any other projects I (Molitvan) worked on, you can [give me money on Ko-Fi](https://ko-fi.com/Molitvan). Thank you to anyone who does this, it means a lot!
