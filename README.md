@@ -58,7 +58,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Digimon World: Next Order](https://store.steampowered.com/app/1530160/Digimon_World_Next_Order/), PC, with [the DigimonNOAccess mod](https://github.com/RealAmethyst/DigimonNOAccess)) - fully accessible
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/), PC, with [the Non-Visual Calculus mod](https://github.com/rashadnaqeeb/NonVisualCalculus)) - fully accessible
 - [Doki Doki Literature Club Plus](https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/), PC, with [this mod](https://justsayori.com/)) - fully accessible
-- Doom, Doom 2, Heretic & Hexon(PC, game links: [Doom + Doom II](https://store.steampowered.com/app/2280/DOOM__DOOM_II/), [Heretic](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/), [Hexen](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/), with [the Toby Doom Accessibility mod](https://alando1.itch.io/)) - limited information
+- Doom, Doom 2, Heretic & Hexon(PC, game links: [Doom + Doom II](https://store.steampowered.com/app/2280/DOOM__DOOM_II/), [Heretic](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/), [Hexen](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/), with [the Toby Doom Accessibility mod](https://alando1.itch.io/)) - mostly accessible
 - [Dragon Ball Sparking! Zero](https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/), PC, with [the Sparking Zero Access mod](https://github.com/AccessForge/SparkingZeroAccess)) - work in progress, under active development (note that this game is accidentally playable without the mod as well)
 - [Dragon Ball Z Kakarot](https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/), PC, with [the DBZ Kakarot Access mod](https://github.com/Ali-Bueno/dbz-kakarot-access)) - work in progress, under active development
 - [Dragon Warrior 1](https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)), emulated on PC, with [the Dragon Warrior Access mod](https://github.com/GADeuvall2000/DragonWarriorAccess)) - work in progress, under active development
@@ -130,7 +130,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Pokemon Rejuvenation](https://www.rebornevo.com/rejuv/), PC, with [the Crawli Support Pack modpack](https://github.com/yrsegal/crawli-support-pack)) - playable, but very early
 - [Pokemon Showdown](https://pokemonshowdown.com/), PC) - fully accessible
 - [Pokemon TCG Live](https://tcg.pokemon.com/en-us/tcgl/), PC, with [this mod](https://accessibilitymods.com/mods/tcg-live/) - fully accessible
-- [Pokemon: all GBC and GBA Pokemon games including some ROM hacks](https://www.pokemon.com/us/pokemon-video-games), emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - fully accessible
+- [Pokemon: all GBC and GBA Pokemon games including some ROM hacks](https://www.pokemon.com/us/pokemon-video-games), emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - mostly accessible
 - [Red & Black](https://store.steampowered.com/app/2365780/_RedBlack/), PC) - playable, accessibility features can be a bit tedious to use
 - [Reigns](https://store.steampowered.com/app/474750/Reigns/), PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
 - [Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/), PC)
