@@ -44,7 +44,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes/), PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - mostly accessible, although the mod is a content mod on top of being an accessibility mod
 - [Coffee Talk](https://store.steampowered.com/app/914800/Coffee_Talk/), PC, with [the Coffee Talk Access mod](https://github.com/objectinspace/coffee-talk-access)) - fully accessible
 - [Conjury](https://store.steampowered.com/app/2684520/Conjury/), PC/Android/iOS) - fully accessible
-- [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/), PC (specifically the Steam version), with [this mod](https://arctic-labs.com/cookie-clicker-access)) - mostly accessible
+- [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/), PC (specifically the Steam version), with [this mod](https://arctic-labs.com/cookie-clicker-access)) - fully accessible
 - [Crusader Kings III](https://store.steampowered.com/app/1158310/Crusader_Kings_III/), PC, with [this mod](https://forum.paradoxplaza.com/forum/threads/mod-ocr-support-a-mod-for-blind-and-visually-impaired-players.1619475/)) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputting text to a tts.
 - [Cryptmaster](https://store.steampowered.com/app/1885110/Cryptmaster/), PC, with [the Cryptmaster Access mod](https://github.com/zersiax/CryptmasterAccess)) - work in progress, under active development
 - [Cult of the Lamb,](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/) PC, with the [CultAccess mod,](https://github.com/zersiax/cultaccess/releases/) - work in progress, under active development
@@ -57,6 +57,8 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Deep Rock Galactic Survivor](https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/), PC, with [the DRG Access mod](https://github.com/Ali-Bueno/drg-access/)) - work in progress, under active development
 - [Diablo](https://www.gog.com/en/game/diablo), PC, with [the Diablo Access mod](https://github.com/mojsior/diablo-access/)) - mostly accessible
 - [Diablo IV](https://diablo4.blizzard.com/), all platforms) - mostly accessible, requires mental mapping in dungeons, nav assist only in overworld for now
+- [Digimon Story Time stranger,](https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/) PC, with [this mod](https://accessibilitymods.com/mods/dsts/) - fully accessible (requires controller)
+- [Digimon World 2,](https://en.wikipedia.org/wiki/Digimon_World_2) (PC, [via the RetroArch emulator,](https://www.retroarch.com/) with the [RetroArch Accessibility project,](https://github.com/buu420/RetroArch/) - work in progress, under active development
 - [Digimon World: Next Order](https://store.steampowered.com/app/1530160/Digimon_World_Next_Order/), PC, with [the DigimonNOAccess mod](https://github.com/RealAmethyst/DigimonNOAccess)) - fully accessible
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/), PC, with [the Non-Visual Calculus mod](https://github.com/rashadnaqeeb/NonVisualCalculus)) - fully accessible
 - [Doki Doki Literature Club Plus](https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/), PC, with [this mod](https://justsayori.com/)) - fully accessible
@@ -67,6 +69,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Escape from Norwood](https://store.steampowered.com/app/2372150/Escape_from_Norwood/), PC) - fully accessible
 - [F1 25](https://www.ea.com/games/f1/f1-25), all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 - [Factorio](https://store.steampowered.com/app/427520/Factorio/), PC, with [the Factorio Access mod](https://github.com/factorio-access/factorio-access)) - fully accessible, very streamlined with things like an in-game tutorial specific to the mod that teaches you both the game and the mod
+- [Fallout: New Vegas,](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) PC, with the [FalloutNV Access mod,](https://www.nexusmods.com/newvegas/mods/98916) - work in progress, under active development
 - [Fallout 4](https://store.steampowered.com/app/377160/Fallout_4/), PC, with [the Fallout 4 Access mod](https://www.nexusmods.com/fallout4/mods/100314)) - work in progress, under active development
 - [Fear and Hunger](https://store.steampowered.com/app/1002300/Fear__Hunger/), PC, with [this mod](https://github.com/aefren/fear-and-hunger-accessibility)) - work in progress, under active development
 - [Final Fantasy](https://store.steampowered.com/app/1173770/FINAL_FANTASY/), PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
@@ -76,6 +79,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Final Fantasy IX](https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/), PC, with [this fork of the Memoria engine](https://github.com/BlindGuyNW/FF6ScreenReader), download separately available [here](https://www.dropbox.com/scl/fo/020slj7xgabc2m2ynnuw0/AFj01-ZzB67TcSx2wa0mLtA?rlkey=ngodiwk2wdsh8eaieuj0rrxdl&dl=1)) - work in progress, development paused indefinitely
 - [Final Fantasy V](https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/), PC, with [the FF5 screen reader mod](https://github.com/bladestorm360/FF5-Screen-Reader)) - mostly accessible, fully completable
 - [Final Fantasy VI](https://store.steampowered.com/app/1173820/FINAL_FANTASY_VI/), PC, with [the FF6 Screen Reader mod](https://github.com/BlindGuyNW/FF6ScreenReader)) - mostly accessible, fully completeable
+- [Final Fantasy XII: The Zodiac Age,](https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/) PC, with the [FFXII Screen Reader mod](https://github.com/bladestorm360/FFXII-Screen-Reader) - work in progress, under active development
 - [Fire Emblem Sacred Stones](https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html), PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) - partially accessible, development status unclear
 - [Firebird](https://store.steampowered.com/app/1633860/Firebird/), PC) - fully accessible
 - [Football Simulator](https://store.steampowered.com/app/1488560/Football_Simulator/), with [the Football Simulator Access mod](https://github.com/PawsTogetherGaming/FootballSimulatorAccessMod)) - mostly accessible
@@ -97,7 +101,9 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Heroes of Might and Magic 3](https://www.gog.com/en/game/heroes_of_might_and_magic_3_complete_edition), PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
 - [Iron Lung](https://store.steampowered.com/app/1846170/Iron_Lung/), PC, with [this mod](https://github.com/liliancoghlan1-tech/iron-lung-accessibility)) - fully accessible
 - [Kilta](https://store.steampowered.com/app/1401560/Kilta/), PC) - fully accessible
+- [King of Dragon Pass,](https://store.steampowered.com/app/352220/King_of_Dragon_Pass/) PC, with the [Access Dragon Pass mod,](https://arctic-labs.com/access-dragon-pass) - work in progress, but already mostly accessible
 - [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/), PC, with [the KC Accessibility mod](https://github.com/chripa85/kc-accessibility/)) - work in progress, under active development
+- [Koikatsu Party](https://store.steampowered.com/agecheck/app/1073440/) PC, with the [BlindLusion mod,](https://on1xn.github.io/arozv/koikatsu/BlindLusion/) - fully accessible
 - [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/), PC, with [the Lethal Access mod](https://thunderstore.io/c/lethal-company/p/GreenBean/LethalAccess)) - partially accessible
 - [Life is Strange: Before the Storm](https://store.steampowered.com/agecheck/app/554620/), PC, with [the Before the Storm Access mod](https://github.com/ObjectInSpace/BeforeTheStormAccess)) - fully accessible
 - [Loco Motive](https://store.steampowered.com/app/1709880/Loco_Motive/), PC, with [this mod](https://github.com/Lirin111/LocoMotive-Accessibility-Mod), more info available [here](https://forum.audiogames.net/topic/58117/)) - fully accessible
@@ -136,12 +142,15 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Pokemon Showdown](https://pokemonshowdown.com/), PC) - fully accessible
 - [Pokemon TCG Live](https://tcg.pokemon.com/en-us/tcgl/), PC, with [this mod](https://accessibilitymods.com/mods/tcg-live/) - fully accessible
 - [Pokemon: all GBC and GBA Pokemon games including some ROM hacks](https://www.pokemon.com/us/pokemon-video-games), emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - mostly accessible
+- [Pokemon: Generation 5](https://bulbapedia.bulbagarden.net/wiki/Generation_V) PC, with [this project](https://github.com/RealAmethyst/AccessibilityModManager/releases/download/v1.18.4/AccessibilityModManager-1.18.4-Setup.exe) - work in progress, under active development
 - [Project PC,](https://grumpycrouton.itch.io/projectpc) PC, - work in progress, under active development
 - [Red & Black](https://store.steampowered.com/app/2365780/_RedBlack/), PC) - playable, accessibility features can be a bit tedious to use
 - [Reigns](https://store.steampowered.com/app/474750/Reigns/), PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
+- [RetroarchEmulator accessibility project](https://github.com/buu420/RetroArch/) - work in progress, under active development
 - [Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/), PC)
   - Without mods: fully accessible w/audio description, except the custom level editor
   - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
+  - [Rhythm Heaven Fever,](https://en.wikipedia.org/wiki/Rhythm_Heaven_Fever) [via the Dolphin Emulator](https://dolphin-emu.org/) PC, with the [Rhythm Heaven Fever Access mod,](https://molitvan.me/projects/rh-fever-access/) - work in progress, under active development
 - [Rhythm Heaven Groove](https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/), Switch/Switch 2 - fully accessible w/audio description
 - [Rift Wizard 2](https://store.steampowered.com/app/2058570/Rift_Wizard_2/), PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
 - [Rift Wizard 3](https://store.steampowered.com/app/4366330/Rift_Wizard_3/), PC, with [the Words of Power II mod](https://github.com/EarthboundPromoter/Words-of-Power-II) - work in progress, under active development
@@ -178,6 +187,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - The Banner Saga (https://store.steampowered.com/app/237990/The_Banner_Saga/), PC, with [this mod](http://n0n0ce.free.fr/TBS_Access/index.html)) - limited information, seems to be under active development but very slow
 - [The Bazaar](https://playthebazaar.com/), PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - partialy accessible, more info available [here](https://forum.audiogames.net/topic/58335/)
 - [The Drifter](https://store.steampowered.com/app/1170570/The_Drifter/), PC, with [this mod](https://github.com/Lirin111/the-drifter-accessibility-mod)) - limited information
+- [The Elder Scrolls III: Morrowind,](https://github.com/OpenMW/openmw) PC, with the [Hortator project,](https://github.com/LordLuceus/project-hortator) - mostly accessible
 - [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/), PC, with [the Skyrim Access mod](https://gitlab.com/BMMProject/Mods/SkyrimAccess)) - work in progress, under active development
 - [The Last of Us part I.](https://store.steampowered.com/app/1888930/The_Last_of_Us_Part_I/), PC/PS5) - fully accessible w/audio description
 - [The Last of Us part II.](https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/), PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
@@ -191,7 +201,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Warhammer 40000: Rogue Trader](https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/) PC, with the [RTAccess mod,](https://github.com/alex19EP/WH40KRTAccess/releases/tag/dev) - work in progress, under active development
 - [Wasteland 2](https://store.steampowered.com/agecheck/app/240760/), PC, with [this mod](https://github.com/Berenion/wasteland2-accessibility-mod)) - work in progress, under active development
 - [Welcome to the Dark Place](https://store.steampowered.com/app/1135700/Welcome_To_The_Dark_Place/), PC, with [this mod](https://github.com/Jericho-Dread/welcome-to-the-dark-place-accessibility-mods)) - work in progress, under active development
-- [Who wants to be a millionaire?](https://store.steampowered.com/app/1356240/Who_Wants_To_Be_A_Millionaire/), PC, with [this mod](https://forum.audiogames.net/topic/58369)) - partially accessible
+- [Who wants to be a millionaire?](https://store.steampowered.com/app/1356240/Who_Wants_To_Be_A_Millionaire/), PC, with [the VI Millionaire mod](https://arctic-labs.com/vi-millionaire)) - fully accessible minus one mode
 - [World Empire 2027 and spinoffs](https://store.steampowered.com/app/1873540/World_Empire_2027/), PC/Android/iOS) - fully accessible
 - [World of Warcraft](https://worldofwarcraft.blizzard.com/), PC, with [the Blind Slash mod](https://www.curseforge.com/wow/addons/blindslash)) - mostly accessible, sighted assistance required in dungeons and end-game content
 - [World of Warcraft Classic](https://worldofwarcraft.blizzard.com/wowclassic), PC, with [the SKU mod](https://www.curseforge.com/wow/addons/sku)) - not in active development as seen by the notice in the description. As such, I don't recommend it to new players, but I'm putting it here just to make it clear it exists for now.
