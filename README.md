@@ -150,7 +150,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/), PC)
   - Without mods: fully accessible w/audio description, except the custom level editor
   - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
-  - [Rhythm Heaven Fever,](https://en.wikipedia.org/wiki/Rhythm_Heaven_Fever) [via the Dolphin Emulator](https://dolphin-emu.org/) PC, with the [Rhythm Heaven Fever Access mod,](https://molitvan.me/projects/rh-fever-access/) - work in progress, under active development
+- [Rhythm Heaven Fever](https://en.wikipedia.org/wiki/Rhythm_Heaven_Fever), emulated on PC, with the [RH Fever Access mod,](https://molitvan.me/projects/rh-fever-access/) - work in progress, under active development
 - [Rhythm Heaven Groove](https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/), Switch/Switch 2 - fully accessible w/audio description
 - [Rift Wizard 2](https://store.steampowered.com/app/2058570/Rift_Wizard_2/), PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
 - [Rift Wizard 3](https://store.steampowered.com/app/4366330/Rift_Wizard_3/), PC, with [the Words of Power II mod](https://github.com/EarthboundPromoter/Words-of-Power-II) - work in progress, under active development
