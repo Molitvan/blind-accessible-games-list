@@ -39,7 +39,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Brilliant Shadows Part 1](https://store.steampowered.com/app/409920/Brilliant_Shadows__Part_One_of_the_Book_of_Gray_Magic/), PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
 - [Brok the Investigator](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/), all platforms) - fully accessible w/audio description
 - [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/), PC, with [this mod](https://arctic-labs.com/buckshot-roulette-access)) - Fully accessible
-- [Chicken Police](https://store.steampowered.com/app/1084640/Chicken_Police__Paint_it_RED/), PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
+- [Chicken Police](https://store.steampowered.com/app/1084640/Chicken_Police__Paint_it_RED/), PC, with [this mod](https://github.com/Berenion/Chicken-Police-Accessibility-Mod)) - fully accessible
 - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/), PC, with [the Citizen Speaker mod](https://github.com/EarthboundPromoter/Citizen-Speaker)) - fully accessible
 - [Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes/), PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - mostly accessible, although the mod is a content mod on top of being an accessibility mod
 - [Coffee Talk](https://store.steampowered.com/app/914800/Coffee_Talk/), PC, with [the Coffee Talk Access mod](https://github.com/objectinspace/coffee-talk-access)) - fully accessible
