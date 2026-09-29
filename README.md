@@ -272,3 +272,6 @@ These are games that are playable, but without the developers or modders specifi
 
 If you like this project or any other projects I (Molitvan) worked on, you can [give me money on Ko-Fi](https://ko-fi.com/Molitvan). Thank you to anyone who does this, it means a lot!
   
+---
+
+Another list of accessible games exists on the Accessible Gaming Wiki. You can find it [here](https://accessiblegaming.wiki/Blind_accessible_games)
