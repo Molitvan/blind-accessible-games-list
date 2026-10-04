@@ -116,6 +116,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Mario Kart 64](https://en.wikipedia.org/wiki/Mario_Kart_64) PC, with [the Super Blind Kart fork of the Spaghetti Kart project](https://github.com/Ali-Bueno/SpaghettiKart)) - work in progress, under active development
 - [Mario Kart Wii](https://en.wikipedia.org/wiki/Mario_Kart_Wii) PC, with the [MKWii Accessibility project,](https://github.com/Ali-Bueno/Wiicompiled/releases/latest/download/MKWiiAccessibilityInstaller.exe) 	- requires controller, work in progress
 - [Marvel Snap](https://www.marvelsnap.com/), PC, with [the Snap Access mod](https://github.com/Destranis/snapaccess)) - work in progress, under active development
+- [Marvel's Wolverine](https://www.playstation.com/en-us/games/marvels-wolverine/), PS5) - mostly accessible
 - [Melatonin](https://store.steampowered.com/app/1585220/Melatonin/), PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
 - [Microsoft Flight Simulator 2020](https://www.flightsimulator.com/microsoft-flight-simulator/), PC) - more info available [here](https://github.com/oasis1701/msfs-blind-assist)
 - [Minecraft: Java Edition](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc), PC
