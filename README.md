@@ -36,6 +36,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Battle Brothers](https://store.steampowered.com/app/365360/Battle_Brothers/), PC, with [The Unseen Banner mod](https://github.com/aefren/the-unseen-banner)) - mostly accessible
 - [Bits and Bops](https://store.steampowered.com/app/1929290/Bits__Bops/), PC) - fully accessible w/audio description
 - [Blippo Plus](https://store.steampowered.com/app/3323850/Blippo/), PC, with [the Blippo Access mod](https://github.com/zersiax/BlippoAccess)) - fully accessible
+- [Bop It the Videogame](https://store.steampowered.com/app/3214360/Bop_It_The_Video_Game/), with [the Blind It mod](https://github.com/VIPPotato/blind-it/)) - fully accessible
 - [Brilliant Shadows Part 1](https://store.steampowered.com/app/409920/Brilliant_Shadows__Part_One_of_the_Book_of_Gray_Magic/), PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) - mostly accessible
 - [Brok the Investigator](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/), all platforms) - fully accessible w/audio description
 - [Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/), PC, with [this mod](https://arctic-labs.com/buckshot-roulette-access)) - Fully accessible
@@ -66,7 +67,9 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Dragon Ball Sparking! Zero](https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/), PC, with [the Sparking Zero Access mod](https://github.com/AccessForge/SparkingZeroAccess)) - work in progress, under active development (note that this game is accidentally playable without the mod as well)
 - [Dragon Ball Z Kakarot](https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/), PC, with [the DBZ Kakarot Access mod](https://github.com/Ali-Bueno/dbz-kakarot-access)) - work in progress, under active development
 - [Dragon Warrior 1](https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)), emulated on PC, with [the Dragon Warrior Access mod](https://github.com/GADeuvall2000/DragonWarriorAccess)) - work in progress, under active development
+- [Dressmaker](https://store.steampowered.com/app/4019220/Dressmaker/), with [the Dressmaker Access mod](https://github.com/liliancoghlan1-tech/dressmaker-access)) - work in progress, under active development
 - [Escape from Norwood](https://store.steampowered.com/app/2372150/Escape_from_Norwood/), PC) - fully accessible
+- [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/), PC, with [the ECHOPUNKS mod](https://github.com/amerikrainian/echopunks/) - fully accessible
 - [F1 25](https://www.ea.com/games/f1/f1-25), all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 - [Factorio](https://store.steampowered.com/app/427520/Factorio/), PC, with [the Factorio Access mod](https://github.com/factorio-access/factorio-access)) - fully accessible, very streamlined with things like an in-game tutorial specific to the mod that teaches you both the game and the mod
 - [Fallout: New Vegas,](https://store.steampowered.com/app/22380/Fallout_New_Vegas/) PC, with the [FalloutNV Access mod,](https://www.nexusmods.com/newvegas/mods/98916) - work in progress, under active development
@@ -90,6 +93,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Gladiator Manager](https://store.steampowered.com/app/1251970/Gladiator_Manager/), PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - mostly accessible, a bit clunky
 - [God of War Ragnarok](https://store.steampowered.com/app/2322010/God_of_War_Ragnark/), PS4/PS5) - partially accessible, half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide, [available here](https://reviews.sightlesskombat.com/RG.shtml) specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
 - [Graveyard Keeper](https://store.steampowered.com/app/599140/Graveyard_Keeper/), PC, with [this mod](https://github.com/svenja001/graveyard-keeper-accessibility-mod)) - work in progress, under active development
+- [Grim Dawn](https://store.steampowered.com/app/219990/Grim_Dawn/), PC, with [the Grim Dark mod](https://github.com/ahicks92/grimdark)) - work in progress, under active development
 - [Guildrun,](https://store.steampowered.com/app/3669200/Guildrun/) pc, with [the Guildrun Access mod,](http://github.com/amerikrainian/guildrun-access/releases/latest) - work in progress, under active development
 - [Hacknet](https://store.steampowered.com/app/365450/Hacknet/), PC, with [the Hacknet Access mod](https://github.com/zersiax/HacknetAccess)) - work in progress, under active development
 - [Hades](https://store.steampowered.com/app/1145360/Hades/), PC, with [the Hades Accessibility Mods](https://github.com/MichaelJohann1/hades-accessibility-mods)) - playable, but a bit tricky at times. Menus and other UI elements have screen reader support through Tolk, so OCR is no longer required
@@ -142,7 +146,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Pokemon Showdown](https://pokemonshowdown.com/), PC) - fully accessible
 - [Pokemon TCG Live](https://tcg.pokemon.com/en-us/tcgl/), PC, with [this mod](https://accessibilitymods.com/mods/tcg-live/) - fully accessible
 - [Pokemon: all GBC and GBA Pokemon games including some ROM hacks](https://www.pokemon.com/us/pokemon-video-games), emulated on PC, with [the Pokemon Access mod](https://github.com/nuive/pokemon-access)) - mostly accessible
-- [Pokemon: Generation 5](https://bulbapedia.bulbagarden.net/wiki/Generation_V) PC, with [this project](https://github.com/RealAmethyst/AccessibilityModManager/releases/download/v1.18.4/AccessibilityModManager-1.18.4-Setup.exe) - work in progress, under active development
+- [Pokemon: Generation 5](https://bulbapedia.bulbagarden.net/wiki/Generation_V) PC, with [this project](https://accessibilitymods.com/mods/pkmnbw/) - work in progress, under active development
 - [Project PC,](https://grumpycrouton.itch.io/projectpc) PC, - work in progress, under active development
 - [Red & Black](https://store.steampowered.com/app/2365780/_RedBlack/), PC) - playable, accessibility features can be a bit tedious to use
 - [Reigns](https://store.steampowered.com/app/474750/Reigns/), PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
@@ -157,6 +161,7 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible
 - [Roller Coaster Tycoon 2](https://store.steampowered.com/app/285330/), PC, with [the Roller Coaster Tycoon 2 Access mod](https://github.com/RossMinor/OpenRCT2-Access)) - work in progress, under active development
 - [Sequence Storm](https://store.steampowered.com/app/630640/Sequence_Storm/), PC) - fully accessible
+- [Shank](https://store.steampowered.com/app/6120/Shank/), with [the Shank Access mod](https://github.com/KarlBelanger/shank_access)) - fully accessible
 - [Sid Meier's Alpha Centauri](https://www.gog.com/en/game/sid_meiers_alpha_centauri), PC, with [the SMAC Access mod](https://github.com/HappyStarfish/smac-access)) - work in progress, under active development
 - [Sid Meier's Civilization V](https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/), PC, with [the Civ V Access mod](https://github.com/rashadnaqeeb/Civ-V-Access)) - fully accessible, requires the Brave New World Expansion
 - [Sid Meier's Civilization VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/), PC, with [this mod](https://github.com/flat-arther/Civ-VI-Accessibility-Integration)) - fully accessible
