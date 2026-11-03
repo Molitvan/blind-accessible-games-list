@@ -20,6 +20,8 @@ Usage:
   python tools/update_data.py --no-stores  dates only, no network calls to stores
   python tools/update_data.py --gist DIR   also read a clone of the original gist
                                            when working out dates
+  python tools/update_data.py --sales FILE write current Steam sale prices to FILE
+                                           and change nothing else
 
 Standard library only. Keep parse_entries in step with parseEntries in
 assets/list.js: both must produce the same keys.
@@ -317,6 +319,37 @@ def first_store_id(entry, kind, overrides):
     return None
 
 
+def steam_sales(entries, overrides):
+    """Today's Steam discounts for every entry whose regular price comes from Steam."""
+    ids = {}
+    for entry in entries:
+        # A hand-set price may not be the price of the Steam page linked.
+        if "price" not in overrides.get(entry["key"], {}):
+            app_id = first_store_id(entry, "steam", overrides)
+            if app_id:
+                ids[entry["key"]] = app_id
+    wanted = sorted(set(ids.values()))
+    found = {}
+    for start in range(0, len(wanted), 100):
+        batch = ",".join(wanted[start:start + 100])
+        reply = get_json(
+            f"https://store.steampowered.com/api/appdetails?appids={batch}&cc=us&filters=price_overview"
+        )
+        for app_id, answer in reply.items():
+            if answer.get("success"):
+                found[app_id] = answer.get("data") or {}
+        time.sleep(STEAM_DELAY)
+    if len(found) < len(wanted) / 2:
+        raise SystemExit(f"Steam answered for only {len(found)} of {len(wanted)} games")
+    sales = {}
+    for key, app_id in ids.items():
+        if app_id in found:
+            price = found[app_id].get("price_overview") or {}
+            percent = price.get("discount_percent", 0)
+            sales[key] = {"percent": percent, "price": price["final"] / 100} if percent else {"percent": 0}
+    return dict(sorted(sales.items()))
+
+
 # --- main ---------------------------------------------------------------------
 
 def write(data):
@@ -331,10 +364,16 @@ def main():
     parser.add_argument("--no-stores", action="store_true", help="do not call the stores")
     parser.add_argument("--gist", type=Path, help="clone of the original gist, for older dates")
     parser.add_argument("--redo-dates", action="store_true", help="work out every date again")
+    parser.add_argument("--sales", type=Path, help="write current Steam sale prices here, and do nothing else")
     args = parser.parse_args()
 
     today = datetime.date.today().isoformat()
     entries = parse_entries(README.read_text(encoding="utf-8"))
+    overrides = json.loads(OVERRIDES.read_text(encoding="utf-8")) if OVERRIDES.exists() else {}
+    if args.sales:
+        report = {"checked": today, "entries": steam_sales(entries, overrides)}
+        args.sales.write_text(json.dumps(report, indent=0) + "\n", encoding="utf-8")
+        return
     data = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {}
     known = data.get("entries", {})
     data = {
@@ -362,7 +401,6 @@ def main():
     pending = [e for e in entries
                if not (args.new_only and "source" in data["entries"][e["key"]])]
 
-    overrides = json.loads(OVERRIDES.read_text(encoding="utf-8")) if OVERRIDES.exists() else {}
     apple_ids = {e["key"]: first_store_id(e, "apple", overrides) for e in pending}
     wanted = sorted({i for i in apple_ids.values() if i})
     if wanted:

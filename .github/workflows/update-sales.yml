@@ -1,0 +1,40 @@
+name: Update sale prices
+
+# Writes sales.json to the sale-data branch once a day, so these constant
+# updates stay out of main's history and nobody has to pull before pushing.
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/update-sales.yml]
+  schedule:
+    # Steam's sales change at 10am Pacific.
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check Steam
+        run: python tools/update_data.py --sales "$RUNNER_TEMP/sales.json"
+      - name: Publish to the sale-data branch
+        run: |
+          if git fetch origin sale-data; then
+            git switch -c sale-data FETCH_HEAD
+          else
+            git switch --orphan sale-data
+          fi
+          cp "$RUNNER_TEMP/sales.json" sales.json
+          git add sales.json
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update sale prices"
+          git push origin sale-data
