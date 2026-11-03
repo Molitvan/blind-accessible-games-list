@@ -1,0 +1,39 @@
+name: Update list data
+
+# Keeps data/games.json (date added, prices, genres, store ratings) current.
+# The list itself never needs this: the page reads README.md directly.
+on:
+  push:
+    branches: [main]
+    paths: [README.md]
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: New entries only, after a list edit
+        if: github.event_name == 'push'
+        run: python tools/update_data.py --new-only
+      - name: Refresh everything, on the weekly run
+        if: github.event_name != 'push'
+        run: python tools/update_data.py
+      - name: Commit if anything changed
+        run: |
+          git add data/games.json
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update list data"
+          git push

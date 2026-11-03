@@ -24,6 +24,8 @@ Throughout the list you might find some terms like fully accessible, mostly acce
 - Unknown/Limited information: not enough information to classify
 
 ## Games
+[Open the sortable version of this list](https://christendomstrategist.github.io/blind-accessible-games-list/) to sort it by date added, price, accessibility, platform, genre and more.
+
 - [1428: Shadows Over Silesia](https://store.steampowered.com/app/1228500/1428_Shadows_over_Silesia/), PC) - fully accessible w/audio description
 - [2XKO](https://2xko.riotgames.com/), all platforms) - fully accessible
 - [3D Pinball: Space Cadet](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball), PC, with [the Space Cadet Access mod](https://www.patreon.com/oriolgomez/posts/pinball-every-173986544)) - limited information

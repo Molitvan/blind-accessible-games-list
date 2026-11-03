@@ -1,0 +1,2867 @@
+{
+ "updated": "2026-11-03",
+ "historyStart": "2025-04-03",
+ "entries": {
+  "accidental/13-sentinels-aegis-rim": {
+   "added": "2025-06-22"
+  },
+  "accidental/animal-crossing-new-horizons": {
+   "added": "2025-12-30"
+  },
+  "accidental/final-fantasy-xvi": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2024-09-17",
+   "price": 49.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 79,
+   "ratingCount": 23043
+  },
+  "accidental/most-fighting-games": {
+   "added": "2025-04-03"
+  },
+  "accidental/ninja-gaiden-3": {
+   "added": "2025-06-22",
+   "source": "steam",
+   "released": "2021-06-09",
+   "price": 39.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 68,
+   "ratingCount": 1433
+  },
+  "accidental/ninja-gaiden-4": {
+   "added": "2025-12-30",
+   "source": "steam",
+   "released": "2025-10-20",
+   "price": 69.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ]
+  },
+  "accidental/resident-evil-6": {
+   "added": "2025-06-22",
+   "source": "steam",
+   "released": "2013-03-21",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 79,
+   "ratingCount": 54720
+  },
+  "accidental/rhythm-heaven": {
+   "added": "2025-06-22"
+  },
+  "accidental/the-jackbox-party-pack-series": {
+   "added": "2025-12-05"
+  },
+  "games/1428-shadows-over-silesia": {
+   "added": "2025-12-05",
+   "source": "steam",
+   "released": "2022-10-04",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 80,
+   "ratingCount": 235
+  },
+  "games/2xko": {
+   "added": "2026-04-24"
+  },
+  "games/3d-pinball-space-cadet": {
+   "added": "2026-11-02"
+  },
+  "games/a-dance-of-fire-and-ice": {
+   "added": "2026-02-15",
+   "source": "steam",
+   "released": "2019-01-24",
+   "price": 5.99,
+   "genres": [
+    "Indie"
+   ],
+   "rating": 94,
+   "ratingCount": 73471
+  },
+  "games/a-space-for-the-unbound": {
+   "added": "2026-01-03",
+   "source": "steam",
+   "released": "2023-01-19",
+   "price": 19.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 97,
+   "ratingCount": 6215
+  },
+  "games/against-the-storm": {
+   "added": "2026-02-15",
+   "source": "steam",
+   "released": "2023-12-08",
+   "price": 29.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 95,
+   "ratingCount": 31412
+  },
+  "games/alt-frequencies": {
+   "added": "2026-05-16"
+  },
+  "games/as-dusk-falls": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2022-07-19",
+   "price": 29.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 91,
+   "ratingCount": 3307
+  },
+  "games/bad-dream-coma": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2017-03-09",
+   "price": 8.99,
+   "genres": [
+    "Adventure",
+    "Casual"
+   ],
+   "rating": 92,
+   "ratingCount": 2135
+  },
+  "games/balatro": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2024-02-20",
+   "price": 14.99,
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "rating": 98,
+   "ratingCount": 153566
+  },
+  "games/battle-brothers": {
+   "added": "2026-08-04",
+   "source": "steam",
+   "released": "2017-03-24",
+   "price": 29.99,
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 88,
+   "ratingCount": 24329
+  },
+  "games/beacon-pines": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2022-09-22",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "Casual"
+   ],
+   "rating": 98,
+   "ratingCount": 3495
+  },
+  "games/beamng-drive": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2015-05-29",
+   "price": 24.99,
+   "genres": [
+    "Racing",
+    "Simulation"
+   ],
+   "rating": 97,
+   "ratingCount": 322278
+  },
+  "games/bills-must-be-paid": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2026-07-29",
+   "price": 6.99,
+   "genres": [
+    "Action",
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ]
+  },
+  "games/bits-and-bops": {
+   "added": "2025-12-05",
+   "source": "steam",
+   "released": "2025-12-09",
+   "price": 15.99,
+   "genres": [
+    "Action",
+    "Casual"
+   ]
+  },
+  "games/blippo-plus": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2025-09-23",
+   "price": 14.99,
+   "genres": [
+    "Casual"
+   ]
+  },
+  "games/bop-it-the-videogame": {
+   "added": "2026-10-04",
+   "source": "steam",
+   "released": "2025-09-17",
+   "price": 7.99,
+   "genres": [
+    "Casual"
+   ]
+  },
+  "games/brilliant-shadows-part-1": {
+   "added": "2026-04-02",
+   "source": "steam",
+   "released": "2015-11-02",
+   "price": 6.99,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 94,
+   "ratingCount": 190
+  },
+  "games/brok-the-investigator": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2022-08-26",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 98,
+   "ratingCount": 1088
+  },
+  "games/buckshot-roulette": {
+   "added": "2026-04-02",
+   "source": "steam",
+   "released": "2024-04-04",
+   "price": 2.99,
+   "genres": [
+    "Action",
+    "Simulation"
+   ],
+   "rating": 96,
+   "ratingCount": 95541
+  },
+  "games/candy-crush-saga": {
+   "added": "2026-11-02"
+  },
+  "games/chicken-police": {
+   "added": "2026-02-26",
+   "source": "steam",
+   "released": "2020-11-05",
+   "price": 19.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 95,
+   "ratingCount": 2314
+  },
+  "games/citizen-sleeper": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2022-05-05",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 93,
+   "ratingCount": 8105
+  },
+  "games/clicker-heroes": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2015-05-13",
+   "price": 0,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 90,
+   "ratingCount": 61304
+  },
+  "games/coffee-talk": {
+   "added": "2025-12-29",
+   "source": "steam",
+   "released": "2020-01-29",
+   "price": 12.99,
+   "genres": [
+    "Adventure",
+    "Casual"
+   ],
+   "rating": 95,
+   "ratingCount": 11267
+  },
+  "games/conjury": {
+   "added": "2026-05-16",
+   "source": "steam",
+   "released": "2023-12-02",
+   "price": 4.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 97,
+   "ratingCount": 34
+  },
+  "games/cook-serve-delicious-2": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2017-09-13",
+   "price": 14.99,
+   "genres": [
+    "Action",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 89,
+   "ratingCount": 2938
+  },
+  "games/cookie-clicker": {
+   "added": "2026-01-28",
+   "source": "steam",
+   "released": "2021-09-01",
+   "price": 4.99,
+   "genres": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 97,
+   "ratingCount": 79892
+  },
+  "games/crusader-kings-iii": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2020-09-01",
+   "price": 49.99,
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 90,
+   "ratingCount": 126909
+  },
+  "games/cryptmaster": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2024-05-09",
+   "price": 24.99,
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 1839
+  },
+  "games/cult-of-the-lamb": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2022-08-11",
+   "price": 24.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 103228
+  },
+  "games/cyber-punk-2077": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2020-12-09",
+   "price": 59.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 84,
+   "ratingCount": 844921
+  },
+  "games/darkest-dungeon": {
+   "added": "2026-08-25",
+   "source": "steam",
+   "released": "2016-01-19",
+   "price": 24.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 92,
+   "ratingCount": 149456
+  },
+  "games/darkest-dungeon-ii": {
+   "added": "2026-08-25",
+   "source": "steam",
+   "released": "2023-05-08",
+   "price": 39.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 76,
+   "ratingCount": 21539
+  },
+  "games/date-everything": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2025-06-17",
+   "price": 29.99,
+   "genres": [
+    "Simulation"
+   ]
+  },
+  "games/dawncaster": {
+   "added": "2025-12-05",
+   "source": "steam",
+   "released": "2026-02-06",
+   "price": 19.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ]
+  },
+  "games/death-and-taxes": {
+   "added": "2026-02-26",
+   "source": "steam",
+   "released": "2020-02-20",
+   "price": 12.99,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 87,
+   "ratingCount": 7028
+  },
+  "games/deep-rock-galactic-survivor": {
+   "added": "2026-02-26",
+   "source": "steam",
+   "released": "2025-09-17",
+   "price": 12.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 87,
+   "ratingCount": 36558
+  },
+  "games/diablo": {
+   "added": "2026-01-28"
+  },
+  "games/diablo-iv": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2023-10-17",
+   "price": 49.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "MMO",
+    "RPG"
+   ],
+   "rating": 66,
+   "ratingCount": 50302
+  },
+  "games/dicey-dungeons": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2019-08-13",
+   "price": 14.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 90,
+   "ratingCount": 11114
+  },
+  "games/digimon-story-time-stranger": {
+   "added": "2026-09-25",
+   "source": "steam",
+   "released": "2025-10-02",
+   "price": 69.99,
+   "genres": [
+    "RPG"
+   ]
+  },
+  "games/digimon-world-2": {
+   "added": "2026-09-25"
+  },
+  "games/digimon-world-next-order": {
+   "added": "2026-02-15",
+   "source": "steam",
+   "released": "2023-02-21",
+   "price": 59.99,
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 82,
+   "ratingCount": 2125
+  },
+  "games/disco-elysium": {
+   "added": "2025-11-02",
+   "source": "steam",
+   "released": "2019-10-15",
+   "price": 39.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 93,
+   "ratingCount": 111712
+  },
+  "games/doki-doki-literature-club-plus": {
+   "added": "2025-12-29",
+   "source": "steam",
+   "released": "2021-06-30",
+   "price": 14.99,
+   "genres": [
+    "Casual"
+   ],
+   "rating": 97,
+   "ratingCount": 27539
+  },
+  "games/doom-doom-2-heretic-hexon": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2007-08-03",
+   "price": 9.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 96,
+   "ratingCount": 24984
+  },
+  "games/dragon-ball-sparking-zero": {
+   "added": "2025-12-11",
+   "source": "steam",
+   "released": "2024-10-10",
+   "price": 49.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 89,
+   "ratingCount": 65180
+  },
+  "games/dragon-ball-z-budokai-tenkaichi-3": {
+   "added": "2026-11-02"
+  },
+  "games/dragon-ball-z-kakarot": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2020-01-16",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 93,
+   "ratingCount": 54680
+  },
+  "games/dragon-warrior-1": {
+   "added": "2026-04-24"
+  },
+  "games/dressmaker": {
+   "added": "2026-10-04",
+   "source": "steam",
+   "released": "2026-09-21",
+   "price": 14.99,
+   "genres": [
+    "Casual",
+    "Simulation"
+   ]
+  },
+  "games/dungeons-dynasties": {
+   "added": "2026-11-02"
+  },
+  "games/eliza": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2019-08-12",
+   "price": 14.99,
+   "genres": [
+    "Indie"
+   ],
+   "rating": 91,
+   "ratingCount": 1673
+  },
+  "games/escape-from-norwood": {
+   "added": "2025-12-11",
+   "source": "steam",
+   "released": "2023-09-13",
+   "price": 5.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 100,
+   "ratingCount": 5
+  },
+  "games/exapunks": {
+   "added": "2026-10-04",
+   "source": "steam",
+   "released": "2018-10-22",
+   "price": 19.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 95,
+   "ratingCount": 1766
+  },
+  "games/f1-25": {
+   "added": "2025-06-04",
+   "source": "steam",
+   "released": "2025-05-30",
+   "price": 49.99,
+   "genres": [
+    "Racing",
+    "Sports"
+   ],
+   "rating": 89,
+   "ratingCount": 2088
+  },
+  "games/factorio": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2020-08-14",
+   "price": 35.0,
+   "genres": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 97,
+   "ratingCount": 215209
+  },
+  "games/fallout-3": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2008-10-28",
+   "price": 9.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 81,
+   "ratingCount": 20930
+  },
+  "games/fallout-4": {
+   "added": "2026-02-26",
+   "source": "steam",
+   "released": "2015-11-09",
+   "price": 19.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 83,
+   "ratingCount": 392287
+  },
+  "games/fallout-new-vegas": {
+   "added": "2026-09-25",
+   "source": "steam",
+   "released": "2010-10-19",
+   "price": 9.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 96,
+   "ratingCount": 227700
+  },
+  "games/fear-and-hunger": {
+   "added": "2026-07-12",
+   "source": "steam",
+   "released": "2019-01-21",
+   "price": 7.99,
+   "genres": [
+    "Adventure",
+    "RPG"
+   ]
+  },
+  "games/fighting-fantasy-classics": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2018-06-05",
+   "price": 0,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 80,
+   "ratingCount": 318
+  },
+  "games/final-fantasy": {
+   "added": "2026-01-16",
+   "source": "steam",
+   "released": "2021-07-28",
+   "price": 11.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 6813
+  },
+  "games/final-fantasy-i-vi-pixel-remaster": {
+   "added": "2026-01-16",
+   "source": "steam",
+   "released": "2021-07-28",
+   "price": 11.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 6813
+  },
+  "games/final-fantasy-ii": {
+   "added": "2026-01-16",
+   "source": "steam",
+   "released": "2021-07-28",
+   "price": 11.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 81,
+   "ratingCount": 2646
+  },
+  "games/final-fantasy-iii": {
+   "added": "2026-01-16",
+   "source": "steam",
+   "released": "2021-07-28",
+   "price": 17.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 93,
+   "ratingCount": 2219
+  },
+  "games/final-fantasy-iv": {
+   "added": "2026-01-16",
+   "source": "steam",
+   "released": "2021-09-08",
+   "price": 17.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 91,
+   "ratingCount": 2367
+  },
+  "games/final-fantasy-ix": {
+   "added": "2025-11-02",
+   "source": "steam",
+   "released": "2016-04-14",
+   "price": 20.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 11892
+  },
+  "games/final-fantasy-v": {
+   "added": "2026-01-04",
+   "source": "steam",
+   "released": "2021-11-10",
+   "price": 17.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 89,
+   "ratingCount": 1935
+  },
+  "games/final-fantasy-vi": {
+   "added": "2025-11-02",
+   "source": "steam",
+   "released": "2022-02-23",
+   "price": 17.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 91,
+   "ratingCount": 3811
+  },
+  "games/final-fantasy-xii-the-zodiac-age": {
+   "added": "2026-09-25",
+   "source": "steam",
+   "released": "2018-02-01",
+   "price": 49.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 90,
+   "ratingCount": 8608
+  },
+  "games/fire-emblem-sacred-stones": {
+   "added": "2026-04-01"
+  },
+  "games/fire-emblem-three-houses": {
+   "added": "2026-11-02"
+  },
+  "games/firebird": {
+   "added": "2025-12-11",
+   "source": "steam",
+   "released": "2023-08-02",
+   "price": 11.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 100,
+   "ratingCount": 82
+  },
+  "games/flamecraft": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2026-09-17",
+   "price": 19.99,
+   "genres": [
+    "Casual",
+    "Strategy"
+   ]
+  },
+  "games/football-manager-26": {
+   "added": "2026-06-02",
+   "source": "steam",
+   "released": "2025-11-04",
+   "price": 59.99,
+   "genres": [
+    "Simulation",
+    "Sports",
+    "Strategy"
+   ]
+  },
+  "games/football-simulator": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2022-06-08",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "Sports"
+   ],
+   "rating": 79,
+   "ratingCount": 740
+  },
+  "games/forgotten-shore": {
+   "added": "2026-11-02"
+  },
+  "games/fortnite": {
+   "added": "2025-04-03"
+  },
+  "games/forza-motorsport": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2023-10-09",
+   "price": 69.99,
+   "genres": [
+    "Racing"
+   ],
+   "rating": 48,
+   "ratingCount": 9985
+  },
+  "games/friday-night-funkin": {
+   "added": "2025-12-29"
+  },
+  "games/gears-of-war-e-day": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2026-10-06",
+   "price": 69.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ]
+  },
+  "games/gladiator-manager": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2021-01-28",
+   "price": 7.99,
+   "genres": [
+    "Simulation",
+    "Sports",
+    "Strategy"
+   ],
+   "rating": 77,
+   "ratingCount": 115
+  },
+  "games/god-of-war-ragnarok": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2024-09-19",
+   "price": 59.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 86,
+   "ratingCount": 31388
+  },
+  "games/graveyard-keeper": {
+   "added": "2026-08-25",
+   "source": "steam",
+   "released": "2018-08-15",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 86,
+   "ratingCount": 43647
+  },
+  "games/graveyard-keeper-2": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2026-09-22",
+   "price": 24.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+   ]
+  },
+  "games/grim-dawn": {
+   "added": "2026-10-04",
+   "source": "steam",
+   "released": "2016-02-25",
+   "price": 24.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 94,
+   "ratingCount": 99730
+  },
+  "games/guildrun": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "upcoming",
+   "genres": [
+    "Action",
+    "Strategy"
+   ]
+  },
+  "games/hacknet": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2015-08-12",
+   "price": 9.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 94,
+   "ratingCount": 25115
+  },
+  "games/hades": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2020-09-17",
+   "price": 24.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 98,
+   "ratingCount": 279741
+  },
+  "games/hades-ii": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2025-09-25",
+   "price": 29.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 64132
+  },
+  "games/halloween": {
+   "added": "2026-11-02"
+  },
+  "games/hand-of-fate": {
+   "added": "2025-12-29",
+   "source": "steam",
+   "released": "2015-02-17",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 89,
+   "ratingCount": 10559
+  },
+  "games/hand-of-fate-2": {
+   "added": "2026-01-01",
+   "source": "steam",
+   "released": "2017-11-07",
+   "price": 29.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 84,
+   "ratingCount": 5680
+  },
+  "games/hearthstone": {
+   "added": "2025-04-03"
+  },
+  "games/heaven-studio": {
+   "added": "2026-01-28"
+  },
+  "games/her-story": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2015-06-24",
+   "price": 9.99,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 90,
+   "ratingCount": 9732
+  },
+  "games/heroes-of-might-and-magic-3": {
+   "added": "2026-02-15"
+  },
+  "games/higurashi-when-they-cry-hou": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2015-05-15",
+   "price": 0,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 96,
+   "ratingCount": 5312
+  },
+  "games/house-party": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2022-07-15",
+   "price": 24.99,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 86,
+   "ratingCount": 14988
+  },
+  "games/infinity-blade-ii": {
+   "added": "2026-11-02"
+  },
+  "games/inscryption": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2021-10-19",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "Strategy"
+   ],
+   "rating": 97,
+   "ratingCount": 131890
+  },
+  "games/iron-lung": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2022-03-09",
+   "price": 7.99,
+   "genres": [
+    "Adventure",
+    "Simulation"
+   ],
+   "rating": 92,
+   "ratingCount": 8170
+  },
+  "games/karaborsa-simulasyonu": {
+   "added": "2026-11-02"
+  },
+  "games/killer-instinct": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2017-09-27",
+   "price": 0,
+   "genres": [
+    "Action"
+   ],
+   "rating": 87,
+   "ratingCount": 5237
+  },
+  "games/kilta": {
+   "added": "2025-12-11",
+   "source": "steam",
+   "released": "2022-07-10",
+   "price": 12.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 75,
+   "ratingCount": 83
+  },
+  "games/king-of-dragon-pass": {
+   "added": "2026-09-25",
+   "source": "steam",
+   "released": "2015-07-28",
+   "price": 11.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 80,
+   "ratingCount": 518
+  },
+  "games/kingdom-two-crowns": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2018-12-11",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 88,
+   "ratingCount": 7063
+  },
+  "games/kingdoms-and-castles": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2017-07-20",
+   "price": 19.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 93,
+   "ratingCount": 29715
+  },
+  "games/koikatsu-party": {
+   "added": "2026-09-25",
+   "source": "steam",
+   "released": "2019-06-10",
+   "price": 59.99,
+   "genres": [
+    "Simulation"
+   ]
+  },
+  "games/lethal-company": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2023-10-23",
+   "price": 9.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 97,
+   "ratingCount": 487160
+  },
+  "games/life-is-strange-before-the-storm": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2017-08-31",
+   "price": 16.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 93,
+   "ratingCount": 37293
+  },
+  "games/loco-motive": {
+   "added": "2025-12-29",
+   "source": "steam",
+   "released": "2024-11-21",
+   "price": 17.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 95,
+   "ratingCount": 720
+  },
+  "games/luck-be-a-landlord": {
+   "added": "2025-12-11",
+   "source": "steam",
+   "released": "2023-01-06",
+   "price": 9.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 93,
+   "ratingCount": 10630
+  },
+  "games/magic-the-gathering-arena": {
+   "added": "2026-02-26",
+   "source": "steam",
+   "released": "2023-05-23",
+   "price": 0,
+   "genres": [
+    "Strategy"
+   ]
+  },
+  "games/mario-kart-64": {
+   "added": "2026-06-17"
+  },
+  "games/mario-kart-wii": {
+   "added": "2026-09-22"
+  },
+  "games/marvel-s-wolverine": {
+   "added": "2026-10-04"
+  },
+  "games/marvel-snap": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2023-08-22",
+   "price": 0,
+   "genres": [
+    "Casual",
+    "Strategy"
+   ]
+  },
+  "games/melatonin": {
+   "added": "2026-02-15",
+   "source": "steam",
+   "released": "2022-12-15",
+   "price": 14.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 95,
+   "ratingCount": 7106
+  },
+  "games/microsoft-flight-simulator-2020": {
+   "added": "2025-12-11",
+   "source": "steam",
+   "released": "2026-08-25",
+   "price": 59.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 79,
+   "ratingCount": 65666
+  },
+  "games/minecraft-java-edition": {
+   "added": "2025-04-03"
+  },
+  "games/monster-prom": {
+   "added": "2026-04-01",
+   "source": "steam",
+   "released": "2018-04-27",
+   "price": 11.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 93,
+   "ratingCount": 13998
+  },
+  "games/monster-train": {
+   "added": "2026-01-28",
+   "source": "steam",
+   "released": "2020-05-21",
+   "price": 24.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 21868
+  },
+  "games/monster-train-2": {
+   "added": "2026-05-16",
+   "source": "steam",
+   "released": "2025-05-21",
+   "price": 24.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 3664
+  },
+  "games/moonlight-peaks": {
+   "added": "2026-08-25",
+   "source": "steam",
+   "released": "2026-07-06",
+   "price": 34.99,
+   "genres": [
+    "Casual",
+    "RPG",
+    "Simulation"
+   ]
+  },
+  "games/mortal-kombat-1": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2023-09-19",
+   "price": 49.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 70,
+   "ratingCount": 37125
+  },
+  "games/mortal-kombat-legacy-kollection": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2025-10-29",
+   "price": 49.99,
+   "genres": [
+    "Action"
+   ]
+  },
+  "games/most-games-made-in-ren-py": {
+   "added": "2026-06-02",
+   "source": "steam",
+   "released": "2017-10-06",
+   "price": 0,
+   "genres": [
+    "Casual"
+   ],
+   "rating": 96,
+   "ratingCount": 210717
+  },
+  "games/no-i-m-not-a-human": {
+   "added": "2026-06-17",
+   "source": "steam",
+   "released": "2025-09-15",
+   "price": 14.99,
+   "genres": [
+    "Simulation"
+   ]
+  },
+  "games/osu": {
+   "added": "2026-08-25"
+  },
+  "games/outer-wilds": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2020-06-18",
+   "price": 24.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 96,
+   "ratingCount": 84488
+  },
+  "games/oxygen-not-included": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2019-07-30",
+   "price": 24.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 97,
+   "ratingCount": 128390
+  },
+  "games/paralives": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2026-05-25",
+   "price": 39.99,
+   "genres": [
+    "Simulation"
+   ]
+  },
+  "games/pastel-parade": {
+   "added": "2026-01-28",
+   "source": "steam",
+   "released": "2025-08-26",
+   "price": 15.99,
+   "genres": [
+    "Action",
+    "Casual"
+   ]
+  },
+  "games/persona-4-golden": {
+   "added": "2026-07-12",
+   "source": "steam",
+   "released": "2020-06-13",
+   "price": 19.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 97,
+   "ratingCount": 78346
+  },
+  "games/phoenix-wright-ace-attorney-trilogy": {
+   "added": "2025-12-29",
+   "source": "steam",
+   "released": "2019-04-09",
+   "price": 29.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 98,
+   "ratingCount": 37254
+  },
+  "games/plague-inc-evolved": {
+   "added": "2026-06-17",
+   "source": "steam",
+   "released": "2016-02-18",
+   "price": 14.99,
+   "genres": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 94,
+   "ratingCount": 55664
+  },
+  "games/plants-vs-zombies": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2009-05-05",
+   "price": 4.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 98,
+   "ratingCount": 139925
+  },
+  "games/pokemon-3ds-games": {
+   "added": "2026-11-02"
+  },
+  "games/pokemon-all-gbc-and-gba-pokemon-games-including-some-rom-hacks": {
+   "added": "2025-04-21"
+  },
+  "games/pokemon-fangames-made-with-pokemon-essentials": {
+   "added": "2026-11-02"
+  },
+  "games/pokemon-generation-5": {
+   "added": "2026-09-25"
+  },
+  "games/pokemon-reborn": {
+   "added": "2025-04-03"
+  },
+  "games/pokemon-rejuvenation": {
+   "added": "2025-12-11"
+  },
+  "games/pokemon-showdown": {
+   "added": "2025-12-11"
+  },
+  "games/pokemon-tcg-live": {
+   "added": "2026-07-12"
+  },
+  "games/pokemon-trading-card-game": {
+   "added": "2026-11-02"
+  },
+  "games/pokerstars": {
+   "added": "2026-11-02"
+  },
+  "games/project-pc": {
+   "added": "2026-09-22"
+  },
+  "games/project-zomboid": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2013-11-08",
+   "price": 24.99,
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 94,
+   "ratingCount": 377063
+  },
+  "games/red-black": {
+   "added": "2026-05-16",
+   "source": "steam",
+   "released": "2023-04-30",
+   "price": 7.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 90,
+   "ratingCount": 10
+  },
+  "games/reigns": {
+   "added": "2026-02-15",
+   "source": "steam",
+   "released": "2016-08-11",
+   "price": 2.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 87,
+   "ratingCount": 7919
+  },
+  "games/retroarchemulator-accessibility-project": {
+   "added": "2026-09-25"
+  },
+  "games/rhythm-animal-cafe": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2026-10-12",
+   "price": 11.99,
+   "genres": [
+    "Casual",
+    "RPG",
+    "Simulation"
+   ]
+  },
+  "games/rhythm-doctor": {
+   "added": "2025-12-05",
+   "source": "steam",
+   "released": "2025-12-06",
+   "price": 19.99,
+   "genres": [
+    "Action",
+    "Casual",
+    "Strategy"
+   ],
+   "rating": 98,
+   "ratingCount": 21213
+  },
+  "games/rhythm-heaven-fever": {
+   "added": "2026-09-26"
+  },
+  "games/rhythm-heaven-groove": {
+   "added": "2026-06-23"
+  },
+  "games/rift-wizard-2": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2025-01-31",
+   "price": 19.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 91,
+   "ratingCount": 532
+  },
+  "games/rift-wizard-3": {
+   "added": "2026-07-12",
+   "source": "steam",
+   "released": "2026-06-23",
+   "price": 19.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ]
+  },
+  "games/rimworld": {
+   "added": "2025-12-04",
+   "source": "steam",
+   "released": "2018-10-17",
+   "price": 34.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 98,
+   "ratingCount": 210517
+  },
+  "games/roller-coaster-tycoon-2": {
+   "added": "2026-07-12",
+   "source": "steam",
+   "released": "2014-05-21",
+   "price": 9.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 89,
+   "ratingCount": 5445
+  },
+  "games/sally-face": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2016-12-14",
+   "price": 2.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 97,
+   "ratingCount": 22561
+  },
+  "games/sequence-storm": {
+   "added": "2025-07-05",
+   "source": "steam",
+   "released": "2018-12-21",
+   "price": 0,
+   "genres": [
+    "Action",
+    "Racing"
+   ],
+   "rating": 95,
+   "ratingCount": 175
+  },
+  "games/shank": {
+   "added": "2026-10-04",
+   "source": "steam",
+   "released": "2010-10-25",
+   "price": 9.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 90,
+   "ratingCount": 3757
+  },
+  "games/sid-meier-s-alpha-centauri": {
+   "added": "2026-03-26"
+  },
+  "games/sid-meier-s-civilization-v": {
+   "added": "2026-05-16",
+   "source": "steam",
+   "released": "2010-09-21",
+   "price": 29.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 204265
+  },
+  "games/sid-meier-s-civilization-vi": {
+   "added": "2026-08-04",
+   "source": "steam",
+   "released": "2016-10-20",
+   "price": 59.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 87,
+   "ratingCount": 349920
+  },
+  "games/silence": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2016-11-15",
+   "price": 19.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 84,
+   "ratingCount": 2603
+  },
+  "games/six-ages-2-lights-going-out": {
+   "added": "2026-06-02",
+   "source": "steam",
+   "released": "2023-08-21",
+   "price": 24.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 97,
+   "ratingCount": 153
+  },
+  "games/six-ages-ride-like-the-wind": {
+   "added": "2026-06-02",
+   "source": "steam",
+   "released": "2019-10-17",
+   "price": 19.99,
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 82,
+   "ratingCount": 447
+  },
+  "games/skull-girls": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2013-08-22",
+   "price": 24.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 73,
+   "ratingCount": 40853
+  },
+  "games/slay-the-spire": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2019-01-23",
+   "price": 24.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 98,
+   "ratingCount": 182277
+  },
+  "games/slay-the-spire-2": {
+   "added": "2026-03-09",
+   "source": "steam",
+   "released": "2026-03-05",
+   "price": 24.99,
+   "genres": [
+    "Strategy"
+   ]
+  },
+  "games/slots-and-daggers": {
+   "added": "2025-12-05",
+   "source": "steam",
+   "released": "2025-10-24",
+   "price": 7.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ]
+  },
+  "games/songs-of-conquest": {
+   "added": "2026-06-02",
+   "source": "steam",
+   "released": "2024-05-20",
+   "price": 29.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 86,
+   "ratingCount": 11676
+  },
+  "games/soulblaze": {
+   "added": "2025-06-22",
+   "source": "steam",
+   "released": "2026-05-29",
+   "price": 13.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ]
+  },
+  "games/spacechem": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2011-03-02",
+   "price": 9.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 92,
+   "ratingCount": 4992
+  },
+  "games/spiderman-2": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2025-01-30",
+   "price": 59.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 76,
+   "ratingCount": 19012
+  },
+  "games/stacklands": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2022-04-08",
+   "price": 7.99,
+   "genres": [
+    "Casual",
+    "Simulation"
+   ]
+  },
+  "games/star-ocean-the-second-story-r": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2023-11-02",
+   "price": 49.99,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "rating": 94,
+   "ratingCount": 3371
+  },
+  "games/star-wars-knights-of-the-old-republic": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2009-09-05",
+   "price": 9.99,
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 91,
+   "ratingCount": 31738
+  },
+  "games/stardew-valley": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2016-02-26",
+   "price": 14.99,
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 98,
+   "ratingCount": 886195
+  },
+  "games/sticky-business": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2023-07-17",
+   "price": 9.99,
+   "genres": [
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 95,
+   "ratingCount": 6171
+  },
+  "games/stories-of-blossom": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2023-08-16",
+   "price": 0,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 94,
+   "ratingCount": 17
+  },
+  "games/strange-adventures-in-infinite-space": {
+   "added": "2026-01-28"
+  },
+  "games/stray-gods": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2023-08-09",
+   "price": 29.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 92,
+   "ratingCount": 3338
+  },
+  "games/street-fighter-6": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2023-06-01",
+   "price": 39.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 85,
+   "ratingCount": 56666
+  },
+  "games/street-fighter-v": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2016-02-15",
+   "genres": [
+    "Action"
+   ],
+   "rating": 68,
+   "ratingCount": 43651
+  },
+  "games/sunless-sea": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2015-02-06",
+   "price": 18.99,
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 83,
+   "ratingCount": 9288
+  },
+  "games/sunlight": {
+   "added": "2026-04-01",
+   "source": "steam",
+   "released": "2021-01-14",
+   "price": 3.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 76,
+   "ratingCount": 409
+  },
+  "games/super-auto-pets": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2021-09-24",
+   "price": 0,
+   "genres": [
+    "Strategy"
+   ]
+  },
+  "games/super-robot-wars-y": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2025-08-27",
+   "price": 59.99,
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ]
+  },
+  "games/tangledeep": {
+   "added": "2026-05-16",
+   "source": "steam",
+   "released": "2018-02-01",
+   "price": 14.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 83,
+   "ratingCount": 1432
+  },
+  "games/tcg-card-shop-simulator-prologue": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2024-08-06",
+   "price": 0,
+   "genres": [
+    "Simulation"
+   ]
+  },
+  "games/tekken-3": {
+   "added": "2026-11-02"
+  },
+  "games/terraria": {
+   "added": "2025-11-02",
+   "source": "steam",
+   "released": "2011-05-16",
+   "price": 9.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 97,
+   "ratingCount": 1409473
+  },
+  "games/the-banner-saga": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2014-01-14",
+   "price": 24.99,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 89,
+   "ratingCount": 15523
+  },
+  "games/the-bazaar": {
+   "added": "2026-01-28",
+   "source": "steam",
+   "released": "2025-08-13",
+   "price": 19.99,
+   "genres": [
+    "Strategy"
+   ]
+  },
+  "games/the-drifter": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2025-07-17",
+   "price": 19.99,
+   "genres": [
+    "Adventure"
+   ]
+  },
+  "games/the-elder-scrolls-iii-morrowind": {
+   "added": "2026-09-25",
+   "source": "steam",
+   "released": "2009-06-16",
+   "price": 14.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 26384
+  },
+  "games/the-elder-scrolls-v-skyrim-anniversary-edition": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2016-10-27",
+   "price": 39.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 92,
+   "ratingCount": 337058
+  },
+  "games/the-last-of-us-part-i": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2023-03-28",
+   "price": 59.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 80,
+   "ratingCount": 79855
+  },
+  "games/the-last-of-us-part-ii": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2025-04-03",
+   "price": 49.99,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "rating": 91,
+   "ratingCount": 24774
+  },
+  "games/the-life-and-suffering-of-prince-jerian": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2026-07-20",
+   "price": 24.99,
+   "genres": [
+    "RPG"
+   ]
+  },
+  "games/the-life-and-suffering-of-sir-brante": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2021-03-04",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 90,
+   "ratingCount": 8619
+  },
+  "games/the-quarry": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2022-06-09",
+   "price": 59.99,
+   "genres": [
+    "Adventure"
+   ],
+   "rating": 82,
+   "ratingCount": 19265
+  },
+  "games/torment-hexus": {
+   "added": "2026-08-25",
+   "source": "steam",
+   "released": "2026-08-18",
+   "price": 9.99,
+   "genres": [
+    "Indie"
+   ]
+  },
+  "games/ultra-street-fighter-iv": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2014-08-07",
+   "price": 29.99,
+   "genres": [
+    "Action"
+   ],
+   "rating": 90,
+   "ratingCount": 15709
+  },
+  "games/undertale": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2015-09-15",
+   "price": 9.99,
+   "genres": [
+    "RPG"
+   ],
+   "rating": 97,
+   "ratingCount": 272932
+  },
+  "games/unfair-flips": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2025-09-25",
+   "price": 1.99,
+   "genres": [
+    "Casual"
+   ]
+  },
+  "games/universal-paperclips": {
+   "added": "2026-09-22"
+  },
+  "games/vaudeville": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2025-11-28",
+   "price": 19.99,
+   "genres": [
+    "Adventure",
+    "Simulation"
+   ],
+   "rating": 55,
+   "ratingCount": 288
+  },
+  "games/verdant": {
+   "added": "2026-11-02"
+  },
+  "games/warhammer-40000-rogue-trader": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2023-12-07",
+   "price": 49.99,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 86,
+   "ratingCount": 30805
+  },
+  "games/wasteland-2": {
+   "added": "2026-08-04",
+   "source": "steam",
+   "released": "2014-09-18",
+   "price": 29.99,
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 82,
+   "ratingCount": 8054
+  },
+  "games/welcome-to-the-dark-place": {
+   "added": "2026-07-30",
+   "source": "steam",
+   "released": "2025-10-24",
+   "price": 0,
+   "genres": [
+    "Adventure"
+   ]
+  },
+  "games/who-wants-to-be-a-millionaire": {
+   "added": "2026-01-28",
+   "source": "steam",
+   "released": "2020-10-29",
+   "price": 29.99,
+   "genres": [
+    "Casual"
+   ],
+   "rating": 51,
+   "ratingCount": 547
+  },
+  "games/world-empire-2027-and-spinoffs": {
+   "added": "2026-03-26",
+   "source": "steam",
+   "released": "2022-03-23",
+   "price": 19.99,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 77,
+   "ratingCount": 78
+  },
+  "games/world-of-warcraft-classic": {
+   "added": "2025-07-02"
+  },
+  "games/world-of-warcraft/the-blind-slash-mod": {
+   "added": "2025-07-02"
+  },
+  "games/world-of-warcraft/the-wowvision-addon": {
+   "added": "2026-11-02"
+  },
+  "games/worldbox": {
+   "added": "2026-04-24",
+   "source": "steam",
+   "released": "2021-12-02",
+   "price": 19.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 95,
+   "ratingCount": 44062
+  },
+  "games/xcom-enemy-unknown-and-enemy-within": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2012-10-08",
+   "price": 14.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 93,
+   "ratingCount": 56414
+  },
+  "games/xcom2": {
+   "added": "2026-09-22",
+   "source": "steam",
+   "released": "2016-02-04",
+   "price": 19.99,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 85,
+   "ratingCount": 101701
+  },
+  "games/xmage": {
+   "added": "2026-05-16"
+  },
+  "games/yu-gi-oh-duel-links": {
+   "added": "2026-05-16",
+   "source": "steam",
+   "released": "2017-11-16",
+   "price": 0,
+   "genres": [
+    "Strategy"
+   ],
+   "rating": 83,
+   "ratingCount": 43630
+  },
+  "games/yu-gi-oh-legacy-of-the-duelist-link-evolution": {
+   "added": "2026-11-02",
+   "source": "steam",
+   "released": "2020-03-24",
+   "price": 39.99,
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 82,
+   "ratingCount": 4361
+  },
+  "games/yu-gi-oh-master-duel": {
+   "added": "2025-04-03",
+   "source": "steam",
+   "released": "2022-01-18",
+   "price": 0,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ]
+  },
+  "games/zafehouse-diaries": {
+   "added": "2026-08-04",
+   "source": "steam",
+   "released": "2013-09-06",
+   "price": 1.99,
+   "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 68,
+   "ratingCount": 438
+  },
+  "games/zelda-1": {
+   "added": "2026-05-16"
+  },
+  "ios/a-dark-room": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 1.99,
+   "released": "2013-11-08",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 2681
+  },
+  "ios/a-few-minutes-of-glory": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 2.99,
+   "released": "2019-02-04",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 93,
+   "ratingCount": 52
+  },
+  "ios/academy-of-disaster": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2016-09-02",
+   "genres": [
+    "Adventure",
+    "Books",
+    "RPG"
+   ],
+   "rating": 67,
+   "ratingCount": 11
+  },
+  "ios/adventure-to-fate": {
+   "added": "2026-04-02"
+  },
+  "ios/ai-dungeon": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2019-12-17",
+   "genres": [
+    "Simulation",
+    "Adventure"
+   ],
+   "rating": 88,
+   "ratingCount": 26850
+  },
+  "ios/akari-glow-light-up-puzzles": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-04-15",
+   "genres": [
+    "Board",
+    "Puzzle"
+   ],
+   "rating": 100,
+   "ratingCount": 1
+  },
+  "ios/all-choice-of-games": {
+   "added": "2026-08-03"
+  },
+  "ios/all-hosted-games": {
+   "added": "2026-08-03"
+  },
+  "ios/art-of-fauna": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2025-02-03",
+   "genres": [
+    "Casual",
+    "Puzzle"
+   ],
+   "rating": 98,
+   "ratingCount": 5769
+  },
+  "ios/art-of-flora": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-03-19",
+   "genres": [
+    "Puzzle",
+    "Casual"
+   ],
+   "rating": 97,
+   "ratingCount": 1277
+  },
+  "ios/baby-adopter-and-spinoffs": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2011-03-17",
+   "genres": [
+    "Simulation",
+    "RPG"
+   ],
+   "rating": 88,
+   "ratingCount": 1982
+  },
+  "ios/battlecry": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2014-04-25",
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 87,
+   "ratingCount": 1370
+  },
+  "ios/beyond-the-chiron-gate": {
+   "added": "2026-06-17",
+   "source": "apple",
+   "price": 9.99,
+   "released": "2022-05-20",
+   "genres": [
+    "Strategy",
+    "RPG"
+   ],
+   "rating": 94,
+   "ratingCount": 68
+  },
+  "ios/bitlife": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2018-09-30",
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 95,
+   "ratingCount": 1797901
+  },
+  "ios/bitlife-dogs": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2021-11-02",
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 93,
+   "ratingCount": 62747
+  },
+  "ios/blackbox": {
+   "added": "2026-02-24",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2016-02-25",
+   "genres": [
+    "Puzzle",
+    "Trivia"
+   ],
+   "rating": 96,
+   "ratingCount": 109568
+  },
+  "ios/cat-genome-kitten-distribution-system": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-08-19",
+   "genres": [
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 100,
+   "ratingCount": 4
+  },
+  "ios/citizens-of-rome": {
+   "added": "2026-06-17",
+   "source": "apple",
+   "price": 9.99,
+   "released": "2019-07-25",
+   "genres": [
+    "RPG",
+    "Simulation"
+   ],
+   "rating": 84,
+   "ratingCount": 96
+  },
+  "ios/eldrum": {
+   "added": "2026-02-24"
+  },
+  "ios/evelyn-s-farm": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 2.99,
+   "released": "2020-01-27",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 93,
+   "ratingCount": 106
+  },
+  "ios/galactic-colonies": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2019-06-21",
+   "genres": [
+    "Strategy",
+    "Simulation"
+   ],
+   "rating": 89,
+   "ratingCount": 303
+  },
+  "ios/godville": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2010-07-18",
+   "genres": [
+    "RPG",
+    "Adventure"
+   ],
+   "rating": 94,
+   "ratingCount": 1805
+  },
+  "ios/guess-the-rule-logic-puzzles": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2021-02-21",
+   "genres": [
+    "Board",
+    "Puzzle"
+   ],
+   "rating": 96,
+   "ratingCount": 39
+  },
+  "ios/idle-crafting-kingdom": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2017-03-17",
+   "genres": [
+    "Simulation"
+   ],
+   "rating": 85,
+   "ratingCount": 162
+  },
+  "ios/idle-iktah": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2023-10-05",
+   "genres": [
+    "Simulation",
+    "Adventure"
+   ],
+   "rating": 96,
+   "ratingCount": 2551
+  },
+  "ios/invisible-dragons": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2016-01-27",
+   "genres": [
+    "Strategy",
+    "Adventure"
+   ],
+   "rating": 67,
+   "ratingCount": 49
+  },
+  "ios/king-of-dragon-pass": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 9.99,
+   "released": "2011-02-14",
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 95,
+   "ratingCount": 210
+  },
+  "ios/land-of-livia": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2016-09-06",
+   "genres": [
+    "RPG",
+    "Adventure"
+   ],
+   "rating": 95,
+   "ratingCount": 1073
+  },
+  "ios/len-guard": {
+   "added": "2026-08-03"
+  },
+  "ios/letterrescue": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 3.99,
+   "released": "2026-07-23",
+   "genres": [
+    "Word"
+   ]
+  },
+  "ios/lords-and-knights": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2011-08-11",
+   "genres": [
+    "Strategy",
+    "Simulation"
+   ],
+   "rating": 91,
+   "ratingCount": 1960
+  },
+  "ios/nano-empire": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 2.99,
+   "released": "2015-07-03",
+   "genres": [
+    "Strategy",
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 145
+  },
+  "ios/nano-empire-2": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": null,
+   "released": "2026-11-30",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ]
+  },
+  "ios/oath-ash": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-10-07",
+   "genres": [
+    "Card",
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 41
+  },
+  "ios/outbrick-block-sort-puzzle": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-09-06",
+   "genres": [
+    "Casual",
+    "Puzzle"
+   ],
+   "rating": 99,
+   "ratingCount": 18
+  },
+  "ios/package-hero": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-07-03",
+   "genres": [
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 91,
+   "ratingCount": 496
+  },
+  "ios/path-of-adventure": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2019-01-23",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 90,
+   "ratingCount": 5636
+  },
+  "ios/path-of-adventure-2": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-10-21",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 100,
+   "ratingCount": 6
+  },
+  "ios/pet-jima-cozy-pixel-creature-collection": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-02-23",
+   "genres": [
+    "Casual",
+    "Family"
+   ],
+   "rating": 93,
+   "ratingCount": 14
+  },
+  "ios/pixel-bowling": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 1.99,
+   "released": "2026-03-10",
+   "genres": [
+    "Sports",
+    "Sports",
+    "Casual"
+   ],
+   "rating": 95,
+   "ratingCount": 70
+  },
+  "ios/pocket-kitchen-cozy-cafe": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 3.99,
+   "released": "2026-08-31",
+   "genres": [
+    "Simulation",
+    "Casual"
+   ],
+   "rating": 91,
+   "ratingCount": 14
+  },
+  "ios/quiet-grind-idle-rpg": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-09-25",
+   "genres": [
+    "Simulation",
+    "RPG"
+   ],
+   "rating": 97,
+   "ratingCount": 42
+  },
+  "ios/quiz-king-duel": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-10-19",
+   "genres": [
+    "Trivia"
+   ],
+   "rating": 92,
+   "ratingCount": 13
+  },
+  "ios/race-to-nowhere": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-06-18",
+   "genres": [
+    "Card",
+    "Sports"
+   ],
+   "rating": 80,
+   "ratingCount": 21
+  },
+  "ios/resort": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-10-08",
+   "genres": [
+    "Puzzle"
+   ],
+   "rating": 100,
+   "ratingCount": 1
+  },
+  "ios/restaurant-rush-cook-serve": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-05-30",
+   "genres": [
+    "Casual",
+    "Simulation"
+   ],
+   "rating": 95,
+   "ratingCount": 81
+  },
+  "ios/seedship": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2018-01-31",
+   "genres": [
+    "Strategy",
+    "RPG"
+   ],
+   "rating": 95,
+   "ratingCount": 703
+  },
+  "ios/sequvo-music-puzzle-game": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 1.99,
+   "released": "2026-05-06",
+   "genres": [
+    "Music",
+    "Puzzle",
+    "Music"
+   ],
+   "rating": 73,
+   "ratingCount": 3
+  },
+  "ios/shoot-for-the-stars-journey": {
+   "added": "2026-08-03",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-05-24",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 73
+  },
+  "ios/six-ages-1-and-2": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 9.99,
+   "released": "2018-07-03",
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "rating": 96,
+   "ratingCount": 773
+  },
+  "ios/the-ensign": {
+   "added": "2026-04-02",
+   "source": "apple",
+   "price": 1.99,
+   "released": "2014-08-17",
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "rating": 92,
+   "ratingCount": 552
+  },
+  "ios/timecrest": {
+   "added": "2026-08-03"
+  },
+  "ios/tindrift-merge-roguelike": {
+   "added": "2026-11-02",
+   "source": "apple",
+   "price": 0.0,
+   "released": "2026-09-20",
+   "genres": [
+    "Strategy",
+    "Puzzle"
+   ]
+  }
+ }
+}
