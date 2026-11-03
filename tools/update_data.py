@@ -338,7 +338,7 @@ def main():
     data = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {}
     known = data.get("entries", {})
     data = {
-        "updated": today,
+        "updated": data.get("updated") or today,  # the date the stores were last checked
         "historyStart": data.get("historyStart"),
         "entries": {e["key"]: known.get(e["key"], {}) for e in entries},
     }
@@ -348,7 +348,8 @@ def main():
         revisions = git_revisions(ROOT, "README.md")
         if args.gist:
             revisions += git_revisions(args.gist, "index.md")
-        data["historyStart"] = min(rev[0] for rev in revisions)
+        # A run without --gist sees less history, so never move this date forward.
+        data["historyStart"] = min(filter(None, [data["historyStart"], *(rev[0] for rev in revisions)]))
         added = compute_added(entries, revisions, today)
         for entry in undated:
             data["entries"][entry["key"]]["added"] = added[entry["key"]]
@@ -356,6 +357,8 @@ def main():
 
     if args.no_stores:
         return
+    if not args.new_only:
+        data["updated"] = today
     pending = [e for e in entries
                if not (args.new_only and "source" in data["entries"][e["key"]])]
 
