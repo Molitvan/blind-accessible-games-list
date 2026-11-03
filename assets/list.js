@@ -352,8 +352,8 @@
 
   function addedMeta(entry) {
     if (!entry.added) return '';
-    if (entry.added === historyStart) return 'Added ' + formatDate(entry.added.slice(0, 7)) + ' or earlier.';
-    return 'Added ' + formatDate(entry.added) + '.';
+    if (entry.added === historyStart) return 'Added ' + formatDate(entry.added.slice(0, 7)) + ' or earlier';
+    return 'Added ' + formatDate(entry.added);
   }
 
   function releaseGroup(entry) {
@@ -364,7 +364,7 @@
 
   function releaseMeta(entry) {
     if (!entry.released || entry.released === 'upcoming') return '';
-    return 'Released ' + formatDate(entry.released) + '.';
+    return 'Released ' + formatDate(entry.released);
   }
 
   function priceGroup(entry) {
@@ -374,9 +374,9 @@
 
   function priceMeta(entry) {
     var parts = [];
-    if (hasPrice(entry)) parts.push(formatPrice(entry.price) + '.');
+    if (hasPrice(entry)) parts.push(formatPrice(entry.price));
     if (entry.priceNote) parts.push(entry.priceNote);
-    return parts.join(' ');
+    return parts.join(' - ');
   }
 
   function ratingGroup(entry) {
@@ -386,7 +386,7 @@
 
   function ratingMeta(entry) {
     if (!hasRating(entry)) return '';
-    return entry.rating + '% from ' + entry.ratingCount.toLocaleString('en-US') + ' ratings.';
+    return entry.rating + '% from ' + entry.ratingCount.toLocaleString('en-US') + ' ratings';
   }
 
   /* Sorts a value with nothing recorded to the end, whichever way the rest run. */
@@ -532,7 +532,7 @@
     var li = document.createElement('li');
     appendTokens(li, entry.tokens);
     var meta = sort.meta ? sort.meta(entry) : '';
-    if (meta) li.appendChild(document.createTextNode(' ' + meta));
+    if (meta) li.appendChild(document.createTextNode(' - ' + meta.replace(/\.$/, '')));
     if (entry.children.length) {
       var ul = document.createElement('ul');
       entry.children.forEach(function (child) {
