@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-03",
+"checked": "2026-11-04",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -362,7 +362,8 @@
 "percent": 0
 },
 "games/plague-inc-evolved": {
-"percent": 0
+"percent": 80,
+"price": 2.99
 },
 "games/plants-vs-zombies": {
 "percent": 0
@@ -547,8 +548,7 @@
 "price": 2.99
 },
 "games/world-empire-2027-and-spinoffs": {
-"percent": 30,
-"price": 13.99
+"percent": 0
 },
 "games/worldbox": {
 "percent": 0
