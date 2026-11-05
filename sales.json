@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-04",
+"checked": "2026-11-05",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -105,8 +105,7 @@
 "percent": 0
 },
 "games/date-everything": {
-"percent": 60,
-"price": 11.99
+"percent": 0
 },
 "games/dawncaster": {
 "percent": 0
@@ -124,8 +123,8 @@
 "percent": 0
 },
 "games/digimon-story-time-stranger": {
-"percent": 43,
-"price": 39.89
+"percent": 40,
+"price": 59.99
 },
 "games/digimon-world-next-order": {
 "percent": 0
@@ -140,10 +139,12 @@
 "percent": 0
 },
 "games/dragon-ball-sparking-zero": {
-"percent": 0
+"percent": 40,
+"price": 29.99
 },
 "games/dragon-ball-z-kakarot": {
-"percent": 0
+"percent": 25,
+"price": 14.99
 },
 "games/dressmaker": {
 "percent": 0
@@ -320,8 +321,7 @@
 "percent": 0
 },
 "games/monster-prom": {
-"percent": 80,
-"price": 2.39
+"percent": 0
 },
 "games/monster-train": {
 "percent": 0
@@ -330,8 +330,7 @@
 "percent": 0
 },
 "games/moonlight-peaks": {
-"percent": 20,
-"price": 27.99
+"percent": 0
 },
 "games/mortal-kombat-1": {
 "percent": 0
@@ -375,7 +374,8 @@
 "percent": 0
 },
 "games/reigns": {
-"percent": 0
+"percent": 67,
+"price": 0.98
 },
 "games/rhythm-animal-cafe": {
 "percent": 0
@@ -405,7 +405,8 @@
 "percent": 0
 },
 "games/sid-meier-s-civilization-v": {
-"percent": 0
+"percent": 75,
+"price": 7.49
 },
 "games/sid-meier-s-civilization-vi": {
 "percent": 0
