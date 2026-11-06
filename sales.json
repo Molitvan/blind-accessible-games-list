@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-05",
+"checked": "2026-11-06",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -29,7 +29,8 @@
 "percent": 0
 },
 "games/bad-dream-coma": {
-"percent": 0
+"percent": 75,
+"price": 2.24
 },
 "games/balatro": {
 "percent": 0
