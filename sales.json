@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-06",
+"checked": "2026-11-07",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -75,8 +75,7 @@
 "percent": 0
 },
 "games/coffee-talk": {
-"percent": 50,
-"price": 6.49
+"percent": 0
 },
 "games/conjury": {
 "percent": 0
@@ -284,7 +283,8 @@
 "percent": 0
 },
 "games/king-of-dragon-pass": {
-"percent": 0
+"percent": 85,
+"price": 1.79
 },
 "games/kingdom-two-crowns": {
 "percent": 0
