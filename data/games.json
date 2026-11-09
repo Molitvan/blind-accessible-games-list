@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-09",
  "historyStart": "2025-04-03",
  "entries": {
   "accidental/13-sentinels-aegis-rim": {
@@ -510,7 +510,7 @@
    "added": "2026-09-25",
    "source": "steam",
    "released": "2025-10-02",
-   "price": 69.99,
+   "price": 99.99,
    "genres": [
     "RPG"
    ]
@@ -2298,12 +2298,12 @@
     "RPG"
    ],
    "rating": 95,
-   "ratingCount": 2681
+   "ratingCount": 2682
   },
   "ios/a-few-minutes-of-glory": {
    "added": "2026-04-02",
    "source": "apple",
-   "price": 2.99,
+   "price": 1.99,
    "released": "2019-02-04",
    "genres": [
     "Simulation",
@@ -2338,7 +2338,7 @@
     "Adventure"
    ],
    "rating": 88,
-   "ratingCount": 26850
+   "ratingCount": 26866
   },
   "ios/akari-glow-light-up-puzzles": {
    "added": "2026-08-03",
@@ -2368,7 +2368,7 @@
     "Puzzle"
    ],
    "rating": 98,
-   "ratingCount": 5769
+   "ratingCount": 5786
   },
   "ios/art-of-flora": {
    "added": "2026-04-02",
@@ -2380,7 +2380,7 @@
     "Casual"
    ],
    "rating": 97,
-   "ratingCount": 1277
+   "ratingCount": 1299
   },
   "ios/baby-adopter-and-spinoffs": {
    "added": "2026-02-24",
@@ -2391,7 +2391,7 @@
     "Simulation",
     "RPG"
    ],
-   "rating": 88,
+   "rating": 87,
    "ratingCount": 1982
   },
   "ios/battlecry": {
@@ -2404,7 +2404,7 @@
     "Strategy"
    ],
    "rating": 87,
-   "ratingCount": 1370
+   "ratingCount": 1371
   },
   "ios/beyond-the-chiron-gate": {
    "added": "2026-06-17",
@@ -2428,7 +2428,7 @@
     "Simulation"
    ],
    "rating": 95,
-   "ratingCount": 1797901
+   "ratingCount": 1798564
   },
   "ios/bitlife-dogs": {
    "added": "2026-02-24",
@@ -2440,7 +2440,7 @@
     "Simulation"
    ],
    "rating": 93,
-   "ratingCount": 62747
+   "ratingCount": 62759
   },
   "ios/blackbox": {
    "added": "2026-02-24",
@@ -2452,7 +2452,7 @@
     "Trivia"
    ],
    "rating": 96,
-   "ratingCount": 109568
+   "ratingCount": 109691
   },
   "ios/cat-genome-kitten-distribution-system": {
    "added": "2026-11-02",
@@ -2484,7 +2484,7 @@
   "ios/evelyn-s-farm": {
    "added": "2026-08-03",
    "source": "apple",
-   "price": 2.99,
+   "price": 1.99,
    "released": "2020-01-27",
    "genres": [
     "Adventure",
@@ -2515,7 +2515,7 @@
     "Adventure"
    ],
    "rating": 94,
-   "ratingCount": 1805
+   "ratingCount": 1807
   },
   "ios/guess-the-rule-logic-puzzles": {
    "added": "2026-08-03",
@@ -2550,7 +2550,7 @@
     "Adventure"
    ],
    "rating": 96,
-   "ratingCount": 2551
+   "ratingCount": 2559
   },
   "ios/invisible-dragons": {
    "added": "2026-04-02",
@@ -2610,12 +2610,12 @@
     "Simulation"
    ],
    "rating": 91,
-   "ratingCount": 1960
+   "ratingCount": 1959
   },
   "ios/nano-empire": {
    "added": "2026-04-02",
    "source": "apple",
-   "price": 2.99,
+   "price": 1.99,
    "released": "2015-07-03",
    "genres": [
     "Strategy",
@@ -2627,12 +2627,14 @@
   "ios/nano-empire-2": {
    "added": "2026-11-02",
    "source": "apple",
-   "price": null,
-   "released": "2026-11-30",
+   "price": 0.0,
+   "released": "2026-11-06",
    "genres": [
     "Adventure",
     "RPG"
-   ]
+   ],
+   "rating": 100,
+   "ratingCount": 1
   },
   "ios/oath-ash": {
    "added": "2026-11-02",
@@ -2643,8 +2645,8 @@
     "Card",
     "Strategy"
    ],
-   "rating": 96,
-   "ratingCount": 41
+   "rating": 95,
+   "ratingCount": 45
   },
   "ios/outbrick-block-sort-puzzle": {
    "added": "2026-11-02",
@@ -2656,7 +2658,7 @@
     "Puzzle"
    ],
    "rating": 99,
-   "ratingCount": 18
+   "ratingCount": 21
   },
   "ios/package-hero": {
    "added": "2026-08-03",
@@ -2668,7 +2670,7 @@
     "Simulation"
    ],
    "rating": 91,
-   "ratingCount": 496
+   "ratingCount": 502
   },
   "ios/path-of-adventure": {
    "added": "2026-08-03",
@@ -2680,7 +2682,7 @@
     "RPG"
    ],
    "rating": 90,
-   "ratingCount": 5636
+   "ratingCount": 5635
   },
   "ios/path-of-adventure-2": {
    "added": "2026-11-02",
@@ -2692,7 +2694,7 @@
     "RPG"
    ],
    "rating": 100,
-   "ratingCount": 6
+   "ratingCount": 8
   },
   "ios/pet-jima-cozy-pixel-creature-collection": {
    "added": "2026-08-03",
@@ -2741,7 +2743,7 @@
     "RPG"
    ],
    "rating": 97,
-   "ratingCount": 42
+   "ratingCount": 47
   },
   "ios/quiz-king-duel": {
    "added": "2026-11-02",
@@ -2751,8 +2753,8 @@
    "genres": [
     "Trivia"
    ],
-   "rating": 92,
-   "ratingCount": 13
+   "rating": 93,
+   "ratingCount": 14
   },
   "ios/race-to-nowhere": {
    "added": "2026-08-03",
@@ -2775,7 +2777,7 @@
     "Puzzle"
    ],
    "rating": 100,
-   "ratingCount": 1
+   "ratingCount": 2
   },
   "ios/restaurant-rush-cook-serve": {
    "added": "2026-11-02",
@@ -2787,7 +2789,7 @@
     "Simulation"
    ],
    "rating": 95,
-   "ratingCount": 81
+   "ratingCount": 87
   },
   "ios/seedship": {
    "added": "2026-04-02",
@@ -2799,7 +2801,7 @@
     "RPG"
    ],
    "rating": 95,
-   "ratingCount": 703
+   "ratingCount": 704
   },
   "ios/sequvo-music-puzzle-game": {
    "added": "2026-08-03",
@@ -2824,7 +2826,7 @@
     "Strategy"
    ],
    "rating": 96,
-   "ratingCount": 73
+   "ratingCount": 74
   },
   "ios/six-ages-1-and-2": {
    "added": "2026-04-02",
@@ -2848,7 +2850,7 @@
     "RPG"
    ],
    "rating": 92,
-   "ratingCount": 552
+   "ratingCount": 553
   },
   "ios/timecrest": {
    "added": "2026-08-03"
