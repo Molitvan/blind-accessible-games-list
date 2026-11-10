@@ -752,9 +752,9 @@
 
   /* Sale prices change daily, so they live on their own branch to keep bot commits
      out of main. A copy of this page on a fork falls back to the fork's own branch
-     until Molitvan's repo has sale data. */
+     if the main repo has no sale data. */
   function saleSources() {
-    var repos = ['Molitvan/blind-accessible-games-list'];
+    var repos = ['ChristendomStrategist/blind-accessible-games-list'];
     var owner = /^([^.]+)\.github\.io$/.exec(location.hostname);
     if (owner) repos.push(owner[1] + '/' + location.pathname.split('/')[1]);
     return repos.map(function (repo) {
@@ -809,7 +809,7 @@
       message.setAttribute('role', 'alert');
       message.textContent = 'The list could not be loaded. ';
       var link = document.createElement('a');
-      link.href = 'https://github.com/Molitvan/blind-accessible-games-list#readme';
+      link.href = 'https://github.com/ChristendomStrategist/blind-accessible-games-list#readme';
       link.textContent = 'Read it on GitHub instead.';
       message.appendChild(link);
       page.appendChild(message);
