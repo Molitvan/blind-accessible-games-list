@@ -60,7 +60,8 @@
 "percent": 0
 },
 "games/brok-the-investigator": {
-"percent": 0
+"percent": 50,
+"price": 9.99
 },
 "games/buckshot-roulette": {
 "percent": 0
@@ -123,8 +124,7 @@
 "percent": 0
 },
 "games/digimon-story-time-stranger": {
-"percent": 40,
-"price": 59.99
+"percent": 0
 },
 "games/digimon-world-next-order": {
 "percent": 0
@@ -139,12 +139,10 @@
 "percent": 0
 },
 "games/dragon-ball-sparking-zero": {
-"percent": 40,
-"price": 29.99
+"percent": 0
 },
 "games/dragon-ball-z-kakarot": {
-"percent": 25,
-"price": 14.99
+"percent": 0
 },
 "games/dressmaker": {
 "percent": 0
@@ -288,8 +286,7 @@
 "percent": 0
 },
 "games/kingdoms-and-castles": {
-"percent": 66,
-"price": 6.79
+"percent": 0
 },
 "games/koikatsu-party": {
 "percent": 0
