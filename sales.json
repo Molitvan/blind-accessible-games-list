@@ -1,5 +1,5 @@
 {
-"checked": "2026-11-08",
+"checked": "2026-11-10",
 "entries": {
 "accidental/final-fantasy-xvi": {
 "percent": 0
@@ -232,7 +232,8 @@
 "percent": 0
 },
 "games/graveyard-keeper": {
-"percent": 0
+"percent": 75,
+"price": 4.99
 },
 "games/graveyard-keeper-2": {
 "percent": 0
@@ -253,12 +254,10 @@
 "percent": 0
 },
 "games/hand-of-fate": {
-"percent": 80,
-"price": 3.99
+"percent": 0
 },
 "games/hand-of-fate-2": {
-"percent": 80,
-"price": 5.99
+"percent": 0
 },
 "games/her-story": {
 "percent": 0
@@ -270,8 +269,7 @@
 "percent": 0
 },
 "games/inscryption": {
-"percent": 60,
-"price": 7.99
+"percent": 0
 },
 "games/iron-lung": {
 "percent": 0
@@ -500,8 +498,7 @@
 "percent": 0
 },
 "games/the-drifter": {
-"percent": 25,
-"price": 14.99
+"percent": 0
 },
 "games/the-elder-scrolls-iii-morrowind": {
 "percent": 0
@@ -546,8 +543,7 @@
 "percent": 0
 },
 "games/who-wants-to-be-a-millionaire": {
-"percent": 90,
-"price": 2.99
+"percent": 0
 },
 "games/world-empire-2027-and-spinoffs": {
 "percent": 0
