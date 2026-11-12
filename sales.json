@@ -422,7 +422,8 @@
 "percent": 0
 },
 "games/slay-the-spire-2": {
-"percent": 0
+"percent": 20,
+"price": 19.99
 },
 "games/slots-and-daggers": {
 "percent": 0
@@ -524,7 +525,8 @@
 "percent": 0
 },
 "games/unfair-flips": {
-"percent": 0
+"percent": 50,
+"price": 0.99
 },
 "games/vaudeville": {
 "percent": 0
